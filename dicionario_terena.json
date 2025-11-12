@@ -1,0 +1,4185 @@
+[
+  {
+    "portugues": "Tudo bem",
+    "terena": "ÚNATI",
+    "terena_completo": "ÚNATI",
+    "pronuncia": "únati",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para um comprimento do cotidiano Terena"
+  },
+  {
+    "portugues": "Estou bem",
+    "terena": "UNATÍ NGÓYE",
+    "terena_completo": "UNATÍ NGÓYE",
+    "pronuncia": "unatí engo ye",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Tudo bem'"
+  },
+  {
+    "portugues": "Estou bem também",
+    "terena": "UNATÍ NGÓYEMAKA",
+    "terena_completo": "UNATÍ NGÓYEMAKA",
+    "pronuncia": "unatí ngóye maka",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Tudo bem'"
+  },
+  {
+    "portugues": "Estou bem também",
+    "terena": "NGÚTEANE",
+    "terena_completo": "NGÚTEANE",
+    "pronuncia": "engu teane",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Tudo bem'"
+  },
+  {
+    "portugues": "Branco",
+    "terena": "HOPÚ'ITI",
+    "terena_completo": "HOPÚ'ITI",
+    "pronuncia": "ropuiti",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para a cor 'Branco'"
+  },
+  {
+    "portugues": "Amarelo",
+    "terena": "HIYA'ITI",
+    "terena_completo": "HIYA'ITI",
+    "pronuncia": "riiaiti",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para a cor 'Amarelo'"
+  },
+  {
+    "portugues": "Verde",
+    "terena": "HONONÓ’ITI",
+    "terena_completo": "HONONÓ’ITI",
+    "pronuncia": "rononóiti",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para a cor 'Verde'"
+  },
+  {
+    "portugues": "Azul",
+    "terena": "HONONÓ’ITI",
+    "terena_completo": "HONONÓ’ITI",
+    "pronuncia": "rononóiti",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para a cor 'Azul'"
+  },
+  {
+    "portugues": "Roxo",
+    "terena": "HOMOMÓ'ITI",
+    "terena_completo": "HOMOMÓ'ITI",
+    "pronuncia": "romomóiti",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para a cor 'Roxo'"
+  },
+  {
+    "portugues": "Vermelho",
+    "terena": "HARARÁ‘ITI",
+    "terena_completo": "HARARÁ‘ITI",
+    "pronuncia": "rararáiti",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para a cor 'Vermelho'"
+  },
+  {
+    "portugues": "Preto",
+    "terena": "HAHÁ'ITI",
+    "terena_completo": "HAHÁ'ITI",
+    "pronuncia": "rarraiti",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para a cor 'Preto'"
+  },
+  {
+    "portugues": "Como vai?",
+    "terena": "NAKÉYEYE",
+    "terena_completo": "NAKÉYEYE",
+    "pronuncia": "naquee ye ye",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para  'Como vai?'"
+  },
+  {
+    "portugues": "Como você está?",
+    "terena": "NAKÉYE",
+    "terena_completo": "NAKÉYE",
+    "pronuncia": "naquee ye ",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para  'Como você está?'"
+  },
+  {
+    "portugues": "Ele gosta",
+    "terena": "AHÁ’AXO",
+    "terena_completo": "ARRÁ’AXO",
+    "pronuncia": "arrá axo",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ele gosta'"
+  },
+  {
+    "portugues": "Enxada",
+    "terena": "ÁHARA",
+    "terena_completo": "ÁHARA",
+    "pronuncia": "arrara",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Enxada'"
+  },
+  {
+    "portugues": "Desejo",
+    "terena": "AHÂTI",
+    "terena_completo": "AHÂTI",
+    "pronuncia": "arrâti",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Desejo'"
+  },
+  {
+    "portugues": "Esfregar no corpo",
+    "terena": "AHI’ÓKOVATI",
+    "terena_completo": "AHI’ÓKOVATI",
+    "pronuncia": "arriókovati",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Esfregar no corpo'"
+  },
+  {
+    "portugues": "Ele está tomando banho",
+    "terena": "AHÍKOVOTI",
+    "terena_completo": "AHÍKOVOTI",
+    "pronuncia": "arríkovoti",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ele está tomando banho'"
+  },
+  {
+    "portugues": "Ela está tomando banho",
+    "terena": "AÍKOVOTI",
+    "terena_completo": "AÍKOVOTI",
+    "pronuncia": "arríkovoti",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ela está tomando banho'"
+  },
+  {
+    "portugues": "Empregado",
+    "terena": "AHÍNOÊTI",
+    "terena_completo": "AHÍNOÊTI",
+    "pronuncia": "arrinoêti",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Empregado'"
+  },
+  {
+    "portugues": "Servo",
+    "terena": "AHÍNOÊTI",
+    "terena_completo": "AHÍNOÊTI",
+    "pronuncia": "arrinoêti",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Servo'"
+  },
+  {
+    "portugues": "Craque",
+    "terena": "AHÚKOTI EPOÉKE",
+    "terena_completo": "AHÚKOTI EPOÉKE",
+    "pronuncia": "arrúkoti epoque",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Craque'"
+  },
+  {
+    "portugues": "Bom de bola",
+    "terena": "AHÚKOTI EPOÉKE",
+    "terena_completo": "AHÚKOTI EPOÉKE",
+    "pronuncia": "arrúkoti epoque",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Bom de bola'"
+  },
+  {
+    "portugues": "Está ralando",
+    "terena": "AÍKOTI",
+    "terena_completo": "AÍKOTI",
+    "pronuncia": "aíkoti",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Está ralando'"
+  },
+  {
+    "portugues": "Obrigado",
+    "terena": "AÍNAPO YÁKOE",
+    "terena_completo": "AÍNAPO YÁKOE",
+    "pronuncia": "aínapo yákoe",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Obrigado'"
+  },
+  {
+    "portugues": "murmuro",
+    "terena_completo": "AKAKAI",
+    "pronuncia": "akakai",
+    "categoria": "geral",
+    "explicacao": "Expressão usada quando a pessoa se machuca ou adoeçe"
+  },
+  {
+    "portugues": "Semente de fruta",
+    "terena": "ÁKE",
+    "terena_completo": "ÁKE",
+    "pronuncia": "áke",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Semente de fruta'"
+  },
+  {
+    "portugues": "Semente de planta",
+    "terena": "AKE NONETI",
+    "terena_completo": "AKE NONETI",
+    "pronuncia": "aque noneti",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Semente de planta'"  
+  },
+  {
+    "portugues": "Música dele",
+    "terena": "AKÉNE",
+    "terena_completo": "AKÉNE",
+    "pronuncia": "aquéne",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Música dele'"
+  },
+  {
+    "portugues": "Música dela",
+    "terena": "AKÉNE",
+    "terena_completo": "AKÉNE",
+    "pronuncia": "aquéne",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Música dela'"
+  },
+  {
+    "portugues": "Atrás",
+    "terena": "AKÉNEKE",
+    "terena_completo": "AKÉNEKE",
+    "pronuncia": "akéneke",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Atrás'"
+  },
+  {
+    "portugues": "Música",
+    "terena": "AKENÉTI",
+    "terena_completo": "AKENÉTI",
+    "pronuncia": "akenéti",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Música'"
+  },
+  {
+    "portugues": "Munição",
+    "terena": "AKÊTI",
+    "terena_completo": "AKÊTI",
+    "pronuncia": "akêti",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Munição'"
+  },
+  {
+    "portugues": "Não é grande",
+    "terena": "AKO ÁHANAI",
+    "terena_completo": "AKO ÁHANAI",
+    "pronuncia": "ako árranai",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Não é grande'"
+  },
+  {
+    "portugues": "Bem perto",
+    "terena": "AKO AHIKAPU",
+    "terena_completo": "AKO AHIKAPU",
+    "pronuncia": "ako arrikapu",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Bem perto'"
+  },
+  {
+    "portugues": "Não toma banho",
+    "terena": "AKO ÁHIKAPU",
+    "terena_completo": "AKO ÁHIKAPU",
+    "pronuncia": "ako árrikapu",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Não toma banho'"
+  },
+  {
+    "portugues": "Ela é feia",
+    "terena": "AKO AÍXOKE",
+    "terena_completo": "AKO AÍXOKE",
+    "pronuncia": "ako a aíxhoke",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Obrigado'"
+  },
+  {
+    "portugues": "Não dá frutas",
+    "terena": "AKO AKÁHAI",
+    "terena_completo": "AKO AKÁHAI",
+    "pronuncia": "ako akárrai",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Não da frutas'"
+  },
+  {
+    "portugues": "Não está bom",
+    "terena": "AKO ÁUNATI",
+    "terena_completo": "AKO ÁUNATI",
+    "pronuncia": "ako áunati",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Não está bom'"
+  },
+  {
+    "portugues": "Não tem velocidade",
+    "terena": "AKO ÁXUXAPA",
+    "terena_completo": "AKO ÁXUXAPA",
+    "pronuncia": "AKO ÁXUXAPA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Não tem velocidade'"
+  },
+  {
+    "portugues": "Sempre vem visitar",
+    "terena": "AKÓ ÁYAKUYEAVI",
+    "terena_completo": "AKÓ ÁYAKUYEAVI",
+    "pronuncia": "AKÓ ÁYAKUYEAVI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Sempre vem visitar'"
+  },
+  {
+    "portugues": "Ele não sabe",
+    "terena_completo": "AKO ÉXA",
+    "pronuncia": "AKO ÉXA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ele não sabe'"
+  },
+  {
+    "portugues": "Não escuta",
+    "terena_completo": "AKO KÂMA",
+    "pronuncia": "AKO KÂMA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Não escuta'"
+  },
+  {
+    "portugues": "Muito longe",
+    "terena": "AKO MALÍKA",
+    "terena_completo": "AKO MALÍKA",
+    "pronuncia": "AKO MALÍKA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Muito longe'"
+  },
+  {
+    "portugues": "Não temos força",
+    "terena": "AKO VÁXUNA",
+    "terena_completo": "AKO VÁXUNA",
+    "pronuncia": "AKO VÁXUNA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Não temos força'"
+  },
+  {
+    "portugues": "De nada",
+    "terena": "AKO YUVÂTI",
+    "terena_completo": "AKO YUVÂTI",
+    "pronuncia": "AKO YUVÂTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'De nada'"
+  },
+  {
+    "portugues": "Não tem mais",
+    "terena": "AKÓ’OTINE",
+    "terena_completo": "AKÓ’OTINE",
+    "pronuncia": "ako otione",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Não tem mais'"
+  },
+  {
+    "portugues": "Não sei",
+    "terena": "AKÓ’ÉNJA",
+    "terena_completo": "AKÓ’ÉNJA",
+    "pronuncia": "ako énja",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Não sei'"
+  },
+  {
+    "portugues": "Não",
+    "terena": "AKO’O",
+    "terena_completo": "AKO’O",
+    "pronuncia": "ako o",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para a palavra 'Não'"
+  },
+  {
+    "portugues": "Também não veio",
+    "terena": "ÁKO’ONEMAKA",
+    "terena_completo": "ÁKO’ONEMAKA",
+    "pronuncia": "ÁKO’ONEMAKA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Também não veio'"
+  },
+  {
+    "portugues": "Também não tem",
+    "terena": "ÁKO’ONEMAKA",
+    "terena_completo": "ÁKO’ONEMAKA",
+    "pronuncia": "ÁKO’ONEMAKA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Também não tem'"
+  },
+  {
+    "portugues": "Não haverá mais",
+    "terena": "ÁKÓ’ONEMO",
+    "terena_completo": "ÁKÓ’ONEMO",
+    "pronuncia": "ÁKÓ’ONEMO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Não haverá mais'"
+  },
+  {
+    "portugues": "Não vai mais",
+    "terena": "AKÓ’OTINEMO PÍHA",
+    "terena_completo": "AKÓ’OTINEMO PÍHA",
+    "pronuncia": "AKÓ’OTINEMO PÍHA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Não vai mais'"
+  },
+  {
+    "portugues": "Não tenho medo",
+    "terena": "AKOPÍKE",
+    "terena_completo": "AKOPÍKE",
+    "pronuncia": "AKOPÍKE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Não tenho medo'"
+  },
+  {
+    "portugues": "Que você sempre nos visite",
+    "terena": "ÁKOYEA YAYAKUYIVI",
+    "terena_completo": "ÁKOYEA YAYAKUYIVI",
+    "pronuncia": "ÁKOYEA YAYAKUYIVI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Que você sempre nos visite'"
+  },
+  {
+    "portugues": "Continua Assim",
+    "terena": "ÁKOYENEYE",
+    "terena_completo": "ÁKOYENEYE",
+    "pronuncia": "ÁKOYENEYE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Continua Assim'"
+  },
+  {
+    "portugues": "Subiu",
+    "terena": "ALU’OKOA",
+    "terena_completo": "ALU’OKOA",
+    "pronuncia": "ALU’OKOA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Subiu'"
+  },
+  {
+    "portugues": "Subir",
+    "terena": "ALU’ÓKOTI",
+    "terena_completo": "ALU’ÓKOTI",
+    "pronuncia": "ALU’ÓKOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Subir'"
+  },
+  {
+    "portugues": "Trepar",
+    "terena": "ALU’ÓKOTI",
+    "pronuncia": "ALU’ÓKOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Trepar'"
+  },
+  {
+    "portugues": "Estou subindo",
+    "terena": "ALU’ÓNGOTI",
+    "pronuncia": "ALU’ÓNGOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Estou subindo'"
+  },
+  {
+    "portugues": "Vou subir",
+    "terena": "ALU’ÓNGOTIMO",
+    "pronuncia": "ALU’ÓNGOTIMO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Vou subir'"
+  },
+  {
+    "portugues": "Meu estômago",
+    "terena": "AMBÁKANA",
+    "pronuncia": "AMBÁKANA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Meu estômago'"
+  },
+  {
+    "portugues": "Meu nascimento",
+    "terena": "ÁMBEPE",
+    "pronuncia": "ÁMBEPE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Meu nascimento'"
+  },
+  {
+    "portugues": "Neto dele",
+    "terena": "ÁMORI",
+    "pronuncia": "ÁMORI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Neto dele'"
+  },
+  {
+    "portugues": "Neto dela",
+    "terena": "ÁMORI",
+    "pronuncia": "ÁMORI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Neto dela'"
+  },
+  {
+    "portugues": "Raiz",
+    "terena": "ÁNA",
+    "pronuncia": "ÁNA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Raiz'"
+  },
+  {
+    "portugues": "Inimigo",
+    "terena": "ANÁNE",
+    "pronuncia": "ANÁNE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Inimigo'"
+  },
+  {
+    "portugues": "Piolho",
+    "terena": "ANÁTI",
+    "pronuncia": "ANÁTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Piolho'"
+  },
+  {
+    "portugues": "Meu irmãozinho",
+    "terena": "ÂNDI",
+    "pronuncia": "ÂNDI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Meu irmãozinho'"
+  },
+  {
+    "portugues": "Está aqui",
+    "terena": "ANÊYE",
+    "pronuncia": "ANÊYE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Está aqui'"
+  },
+  {
+    "portugues": "Minha música",
+    "terena": "ANGÉNE",
+    "pronuncia": "ANGÉNE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Minha música'"
+  },
+  {
+    "portugues": "Meu canto",
+    "terena": "ANGÉNE",
+    "pronuncia": "ANGÉNE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Meu canto'"
+  },
+  {
+    "portugues": "Depois vou tomar banho",
+    "terena": "ANJÍKAPUMO",
+    "pronuncia": "ANJÍKAPUMO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Depois vou tomar banho'"
+  },
+  {
+    "portugues": "Estou tomando banho",
+    "terena": "ANJÍKOVOTI",
+    "pronuncia": "ANJÍKOVOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Estou tomando banho'"
+  },
+  {
+    "portugues": "Irei tomar banho",
+    "terena": "ANJÍKOVOTIMO",
+    "pronuncia": "ANJÍKOVOTIMO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Irei tomar banho'"
+  },
+  {
+    "portugues": "Gambá",
+    "terena": "ÁNU ANU",
+    "pronuncia": "ÁNU ANU",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Gambá'"
+  },
+  {
+    "portugues": "Meu pescoço",
+    "terena": "ÁNUM",
+    "pronuncia": "ÁNUM",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Meu pescoço'"
+  },
+  {
+    "portugues": "Pescoço",
+    "terena": "ANÛTI",
+    "pronuncia": "ANÛTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Pescoço'"
+  },
+  {
+    "portugues": "Minha enxada",
+    "terena": "ÂNZARANA",
+    "pronuncia": "ÂNZARANA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Minha enxada'"
+  },
+  {
+    "portugues": "Meu Peão",
+    "terena": "ANZÍNOE",
+    "pronuncia": "ANZÍNOE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Meu Peão'"
+  },
+  {
+    "portugues": "Meu servo",
+    "terena": "ANZÍNOE",
+    "pronuncia": "ANZÍNOE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Meu servo'"
+  },
+  {
+    "portugues": "Meu empregado",
+    "terena": "ANZÍNOE",
+    "pronuncia": "ANZÍNOE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Meu empregado'"
+  },
+  {
+    "portugues": "Ele escorregou",
+    "terena": "APAHURIKOVOTI",
+    "pronuncia": "APAHURIKOVOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ele escorregou'"
+  },
+  {
+    "portugues": "Fígado",
+    "terena": "APÂKA",
+    "pronuncia": "APÂKA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Fígado'"
+  },
+  {
+    "portugues": "Tem",
+    "terena": "ÁPE",
+    "pronuncia": "ÁPE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Tem'"
+  },
+  {
+    "portugues": "Ter",
+    "terena": "ÁPE",
+    "pronuncia": "ÁPE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ter'"
+  },
+  {
+    "portugues": "Ainda tem",
+    "terena": "ÁPEKO",
+    "pronuncia": "ÁPEKO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ainda tem'"
+  },
+  {
+    "portugues": "Também existe",
+    "terena": "ÁPEMAKA",
+    "pronuncia": "ÁPEMAKA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Também existe'"
+  },
+  {
+    "portugues": "Parceira dele",
+    "terena": "APÉNE",
+    "pronuncia": "APÉNE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Parceira dele'"
+  },
+  {
+    "portugues": "Parceiro dela",
+    "terena": "APÉNE",
+    "pronuncia": "APÉNE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Parceiro dela'"
+  },
+  {
+    "portugues": "Chega",
+    "terena": "ÁPENE",
+    "pronuncia": "ÁPENE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Chega'"
+  },
+  {
+    "portugues": "Antigamente tinha",
+    "terena": "APENOVO",
+    "pronuncia": "APENOVO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Antigamente tinha'"
+  },
+  {
+    "portugues": "Haverá",
+    "terena": "APÊTIMO",
+    "pronuncia": "APÊTIMO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Haverá'"
+  },
+  {
+    "portugues": "Ipê roxo",
+    "terena": "ÁPINIKU",
+    "pronuncia": "ÁPINIKU",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ipê roxo'"
+  },
+  {
+    "portugues": "Goiaba",
+    "terena": "ARÂHA",
+    "pronuncia": "ARÂHA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Goiaba'"
+  },
+  {
+    "portugues": "Motuca (mosquito grande queferroa)",
+    "terena": "ARAMÚKU",
+    "pronuncia": "ARAMÚKU",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Motuca (mosquito grande queferroa)'"
+  },
+  {
+    "portugues": "Estar nadando",
+    "terena": "ARAÚKOTI",
+    "pronuncia": "ARAÚKOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Estar nadando'"
+  },
+  {
+    "portugues": "Nadar",
+    "terena": "ARAÚKOTI",
+    "pronuncia": "ARAÚKOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Nadar'"
+  },
+  {
+    "portugues": "Estou nadando",
+    "terena": "ARAÚNGOTI",
+    "pronuncia": "ARAÚNGOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Estou nadando'"
+  },
+  {
+    "portugues": "Doença",
+    "terena": "ARINÉTI",
+    "pronuncia": "ARINÉTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Doença'"
+  },
+  {
+    "portugues": "Piranha (peixe)",
+    "terena": "ARÛMO",
+    "pronuncia": "ARÛMO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Piranha (peixe)'"
+  },
+  {
+    "portugues": "Moça",
+    "terena": "ÂRUNOE",
+    "pronuncia": "ÂRUNOE",
+    "categoria": "geral", 
+    "explicacao": "Expressão em Terena para 'Moça'"
+  },
+  {
+    "portugues": "Está ficando moça",
+    "terena": "ARUNOEXOTINE",
+    "pronuncia": "ARUNOEXOTINE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Está ficando moça'"
+  },
+  {
+    "portugues": "Está moderndo",
+    "terena": "ARUXÚKOTI",
+    "pronuncia": "ARUXÚKOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Está moderndo'"
+  },
+  {
+    "portugues": "Morder",
+    "terena": "ARUXÚKOTI",
+    "pronuncia": "ARUXÚKOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Morder'"
+  },
+  {
+    "portugues": "Tropeçar",
+    "terena": "ATAPÁRUKOVOTI",
+    "pronuncia": "ATAPÁRUKOVOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Tropeçar'"
+  },
+  {
+    "portugues": "Tropeçar",
+    "terena": "ATAPÁRUKOVOTI",
+    "pronuncia": "ATAPÁRUKOVOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Tropeçar'"
+  },
+  {
+    "portugues": "Irmãozinho",
+    "terena": "ÂTI",
+    "pronuncia": "ÂTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Irmãozinho'"
+  },
+  {
+    "portugues": "Estou moendo",
+    "terena": "AU´ÓNGOTI",
+    "pronuncia": "AU´ÓNGOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Estou moendo'"
+  },
+  {
+    "portugues": "Está moendo",
+    "terena": "AU’ÓKOTI",
+    "pronuncia": "AU’ÓKOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Está moendo'"
+  },
+  {
+    "portugues": "Está de volta",
+    "terena": "AÚKOPOVOPE",
+    "pronuncia": "AÚKOPOVOPE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Está de volta'"
+  },
+  {
+    "portugues": "Está enganando",
+    "terena": "AUPUÍ’KOTI",
+    "pronuncia": "AUPUÍ’KOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Está enganando'"
+  },
+  {
+    "portugues": "Está mentido",
+    "terena": "AUPUÍ’KOTI",
+    "pronuncia": "AUPUÍ’KOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Está mentido'"
+  },
+  {
+    "portugues": "Ficar",
+    "terena": "ÂVA",
+    "pronuncia": "ÂVA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ficar'"
+  },
+  {
+    "portugues": "Não tenho certeza",
+    "terena": "ÁVAINA",
+    "pronuncia": "ÁVAINA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Não tenho certeza'"
+  },
+  {
+    "portugues": "Ainda não",
+    "terena": "ÂVO",
+    "pronuncia": "ÂVO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ainda não'"
+  },
+  {
+    "portugues": "Dourado (peixe)",
+    "terena": "AXIVANAKA",
+    "pronuncia": "AXIVANAKA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Dourado (peixe)'"
+  },
+  {
+    "portugues": "Rapadura",
+    "terena": "AXÚKA",
+    "pronuncia": "AXÚKA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Rapadura'"
+  },
+  {
+    "portugues": "Travesseiro",
+    "terena": "AYATÓKOTI",
+    "pronuncia": "AYATÓKOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Travesseiro'"
+  },
+  {
+    "portugues": "Irmão dela",
+    "terena": "AYO",
+    "pronuncia": "AYO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Irmão dela'"
+  },
+  {
+    "portugues": "Meu Irmão",
+    "terena": "ÂYOM",
+    "pronuncia": "ÂYOM",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Meu Irmão'"
+  },
+  {
+    "portugues": "Minha festa",
+    "terena": "ÁYUIN",
+    "pronuncia": "ÁYUIN",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Minha festa'"
+  },
+  {
+    "portugues": "Comemoração",
+    "terena": "AYUÍTI",
+    "pronuncia": "AYUÍTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Comemoração'"
+  },
+  {
+    "portugues": "Festa",
+    "terena": "AYUÍTI",
+    "pronuncia": "AYUÍTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Festa'"
+  },
+  {
+    "portugues": "Na festa",
+    "terena": "AYUÍTIKE",
+    "pronuncia": "AYUÍTIKE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Na festa'"
+  },
+  {
+    "portugues": "Correr",
+    "terena": "EHAKÓVOTI",
+    "pronuncia": "EHAKÓVOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Correr'"
+  },
+  {
+    "portugues": "Bebida",
+    "terena": "ÊKA",
+    "pronuncia": "ÊKA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Bebida'"
+  },
+  {
+    "portugues": "Sorriu",
+    "terena": "ÉKOVO",
+    "pronuncia": "ÉKOVO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Sorriu'"
+  },
+  {
+    "portugues": "Sorrir",
+    "terena": "EKÓVOTI",
+    "pronuncia": "EKÓVOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Sorrir'"
+  },
+  {
+    "portugues": "Está sorrindo",
+    "terena": "EKÓVOTI",
+    "pronuncia": "EKÓVOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Está sorrindo'"
+  },
+  {
+    "portugues": "Enterrar",
+    "terena": "EKOXOÂTI",
+    "pronuncia": "EKOXOÂTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Enterrar'"
+  },
+  {
+    "portugues": "Tigela",
+    "terena": "ÉLEKEI",
+    "pronuncia": "ÉLEKEI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Tigela'"
+  },
+  {
+    "portugues": "Está Alegre",
+    "terena": "ELÓKETI OKÓVO",
+    "pronuncia": "ELÓKETI OKÓVO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Está Alegre'"
+  },
+  {
+    "portugues": "Está feliz",
+    "terena": "ELÓKETI OKÓVO",
+    "pronuncia": "ELÓKETI OKÓVO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Está feliz'"
+  },
+  {
+    "portugues": "Sim",
+    "terena": "ÊM",
+    "pronuncia": "ÊM",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Sim'"
+  },
+  {
+    "portugues": "Será",
+    "terena": "ÉMEA",
+    "pronuncia": "ÉMEA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Será'"
+  },
+  {
+    "portugues": "Campo dele",
+    "terena": "ÉMEUXA",
+    "pronuncia": "ÉMEUXA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Campo dele'"
+  },
+  {
+    "portugues": "Minha voz",
+    "terena": "EMÓ’UM",
+    "pronuncia": "EMÓ’UM",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Minha voz'"
+  },
+  {
+    "portugues": "Moita",
+    "terena": "EMÓTOE",
+    "pronuncia": "EMÓTOE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Moita'"
+  },
+  {
+    "portugues": "Idioma",
+    "terena": "EMOÚTI",
+    "pronuncia": "EMOÚTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Idioma'"
+  },
+  {
+    "portugues": "Palavra",
+    "terena": "EMOÚTI",
+    "pronuncia": "EMOÚTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Palavra'"
+  },
+  {
+    "portugues": "Coco",
+    "terena": "EMÚKAYA",
+    "pronuncia": "EMÚKAYA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Coco'"
+  },
+  {
+    "portugues": "Coqueiro",
+    "terena": "EMÚKAYAKOXE",
+    "pronuncia": "EMÚKAYAKOXE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Coqueiro'"
+  },
+  {
+    "portugues": "Eu aviso",
+    "terena": "ENDÓ’OKOTI",
+    "pronuncia": "ENDÓ’OKOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Eu aviso'"
+  },
+  {
+    "portugues": "Aconselhar",
+    "terena": "ENÉKOTI",
+    "pronuncia": "ENÉKOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Aconselhar'"
+  },
+  {
+    "portugues": "Cantar (referente ao canto animal)",
+    "terena": "ENEÔTI",
+    "pronuncia": "ENEÔTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Cantar (referente ao canto animal)'"
+  },
+  {
+    "portugues": "Minha bebida",
+    "terena": "ÊNGA",
+    "pronuncia": "ÊNGA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Minha bebida'"
+  },
+  {
+    "portugues": "Lembrei",
+    "terena": "ÉNJOPONOA",
+    "pronuncia": "ÉNJOPONOA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Lembrei'"
+  },
+  {
+    "portugues": "Mãe dela",
+    "terena": "ÊNO",
+    "pronuncia": "ÊNO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Mãe dela'"
+  },
+  {
+    "portugues": "Mãe dele",
+    "terena": "ÊNO",
+    "pronuncia": "ÊNO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Mãe dele'"
+  },
+  {
+    "portugues": "Minha mãe",
+    "terena": "ÊNOM",
+    "pronuncia": "ÊNOM",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Minha mãe'"
+  },
+  {
+    "portugues": "Talvez muito",
+    "terena": "ENÓMEA",
+    "pronuncia": "ENÓMEA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Talvez muito'"
+  },
+  {
+    "portugues": "Cunhada",
+    "terena": "ÉNOMEA",
+    "pronuncia": "ÉNOMEA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Cunhada'"
+  },
+  {
+    "portugues": "Cunhado",
+    "terena": "ÉNOMEA",
+    "pronuncia": "ÉNOMEA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Cunhado'"
+  },
+  {
+    "portugues": "Isso mesmo",
+    "terena": "ÉNOMONE",
+    "pronuncia": "ÉNOMONE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Isso mesmo'"
+  },
+  {
+    "portugues": "Copo",
+    "terena": "ENOVÓPETI",
+    "pronuncia": "ENOVÓPETI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Copo'"
+  },
+  {
+    "portugues": "Está bebendo",
+    "terena": "ENÓVOTI",
+    "pronuncia": "ENÓVOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Está bebendo'"
+  },
+  {
+    "portugues": "Madastra",
+    "terena": "ÉNOXAKA",
+    "pronuncia": "ÉNOXAKA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Madastra'"
+  },
+  {
+    "portugues": "Onda",
+    "terena": "ÉPEAKATINA",
+    "pronuncia": "ÉPEAKATINA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Onda'"
+  },
+  {
+    "portugues": "Pedir",
+    "terena": "EPÉMOTI",
+    "pronuncia": "EPÉMOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Pedir'"
+  },
+  {
+    "portugues": "Sombra",
+    "terena": "EPÊVOKOPETI",
+    "pronuncia": "EPÊVOKOPETI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Sombra'"
+  },
+  {
+    "portugues": "Quando você chegar",
+    "terena": "EPO SIMÊA",
+    "pronuncia": "EPO SIMÊA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Quando você chegar'"
+  },
+  {
+    "portugues": "Borracha de pneu",
+    "terena": "EPÔ’E",
+    "pronuncia": "EPÔ’E",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Borracha de pneu'"
+  },
+  {
+    "portugues": "Está jogando bola",
+    "terena": "EPO’ÉXOTI",
+    "pronuncia": "EPO’ÉXOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Está jogando bola'"
+  },
+  {
+    "portugues": "Aquele",
+    "terena": "EPONE",
+    "pronuncia": "EPONE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Aquele'"
+  },
+  {
+    "portugues": "Minhoca",
+    "terena": "ERÊNDAKAKAI",
+    "pronuncia": "ERÊNDAKAKAI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Minhoca'"
+  },
+  {
+    "portugues": "Preço",
+    "terena": "ÉSA’I",
+    "pronuncia": "ÉSA’I",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Preço'"
+  },
+  {
+    "portugues": "Taquara (Bambu)",
+    "terena": "ÉTAKATI",
+    "pronuncia": "ÉTAKATI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Taquara (Bambu)'"
+  },
+  {
+    "portugues": "Baía Grande (rio)",
+    "terena": "ÊTARUKURE",
+    "pronuncia": "ÊTARUKURE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Baía Grande (rio)'"
+  },
+  {
+    "portugues": "Pimenta-do-reino",
+    "terena": "ÉTETEA RÊ’I",
+    "pronuncia": "ÉTETEA RÊ’I",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Pimenta-do-reino'"
+  },
+  {
+    "portugues": "Ele avisou",
+    "terena": "ÉTO’OKOA",
+    "pronuncia": "ÉTO’OKOA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ele avisou'"
+  },
+  {
+    "portugues": "Ela avisou",
+    "terena": "ÉTO’OKOA",
+    "pronuncia": "ÉTO’OKOA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ela avisou'"
+  },
+  {
+    "portugues": "Foi avisada",
+    "terena": "ETÓ’OKOATI",
+    "pronuncia": "ETÓ’OKOATI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Foi avisada'"
+  },
+  {
+    "portugues": "Foi avisar",
+    "terena": "ETÓ’OKOPONOATI",
+    "pronuncia": "ETÓ’OKOPONOATI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Foi avisar'"
+  },
+  {
+    "portugues": "Ele avisará",
+    "terena": "ETÓ’OKOPONOATIMO",
+    "pronuncia": "ETÓ’OKOPONOATIMO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ele avisará'"
+  },
+  {
+    "portugues": "Aviso",
+    "terena": "ETÓ’OKOVOTI",
+    "pronuncia": "ETÓ’OKOVOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Aviso'"
+  },
+  {
+    "portugues": "Trem",
+    "terena": "ÉTUKU",
+    "pronuncia": "ÉTUKU",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Trem'"
+  },
+  {
+    "portugues": "Tio dela",
+    "terena": "EÚKO",
+    "pronuncia": "EÚKO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Tio dela'"
+  },
+  {
+    "portugues": "Tio dele",
+    "terena": "EÚKO",
+    "pronuncia": "EÚKO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Tio dele'"
+  },
+  {
+    "portugues": "Meu tio",
+    "terena": "EÚNGO",
+    "pronuncia": "EÚNGO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Meu tio'"
+  },
+  {
+    "portugues": "Capivara",
+    "terena": "EVAKÁXU",
+    "pronuncia": "EVAKÁXU",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Capivara'"
+  },
+  {
+    "portugues": "Nascente d'água",
+    "terena": "EVÂKI",
+    "pronuncia": "EVÂKI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Nascente d'água'"
+  },
+  {
+    "portugues": "Granizo",
+    "terena": "EVÊKE",
+    "pronuncia": "EVÊKE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Granizo'"
+  },
+  {
+    "portugues": "Acompanhante",
+    "terena": "EVÉKOTI",
+    "pronuncia": "EVÉKOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Acompanhante'"
+  },
+  {
+    "portugues": "Lontra",
+    "terena": "EVERÉXE",
+    "pronuncia": "EVERÉXE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Lontra'"
+  },
+  {
+    "portugues": "Desceu",
+    "terena": "EVÉSEKO",
+    "pronuncia": "EVÉSEKO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Desceu'"
+  },
+  {
+    "portugues": "Já desceu",
+    "terena": "EVÉSEKOANE",
+    "pronuncia": "EVÉSEKOANE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Já desceu'"
+  },
+  {
+    "portugues": "Descer",
+    "terena": "EVESÉKOTI",
+    "pronuncia": "EVESÉKOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Descer'"
+  },
+  {
+    "portugues": "Pena de galinha",
+    "terena": "EVOI TAPÎ’I",
+    "pronuncia": "EVOI TAPÎ’I",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Pena de galinha'"
+  },
+  {
+    "portugues": "Perder",
+    "terena": "EVÓKOVOTI",
+    "pronuncia": "EVÓKOVOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Perder'"
+  },
+  {
+    "portugues": "Bacuri",
+    "terena": "EXÁTE",
+    "pronuncia": "EXÁTE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Bacuri'"
+  },
+  {
+    "portugues": "Levantar",
+    "terena": "EXEPÚKOTI",
+    "pronuncia": "EXEPÚKOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Levantar'"
+  },
+  {
+    "portugues": "Contador de história",
+    "terena": "ÉXETINATI",
+    "pronuncia": "ÉXETINATI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Contador de história'"
+  },
+  {
+    "portugues": "Está trancada",
+    "terena": "EXEXÓ KOE",
+    "pronuncia": "EXEXÓ KOE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Está trancada'"
+  },
+  {
+    "portugues": "Fechou",
+    "terena": "EXÉXOA",
+    "pronuncia": "EXÉXOA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Fechou'"
+  },
+  {
+    "portugues": "Está fechado",
+    "terena": "EXEXOÂTI",
+    "pronuncia": "EXEXOÂTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Está fechado'"
+  },
+  {
+    "portugues": "Trancará",
+    "terena": "EXEXOÂTIMO",
+    "pronuncia": "EXEXOÂTIMO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Trancará'"
+  },
+  {
+    "portugues": "Bonito",
+    "terena": "EXÓKETI",
+    "pronuncia": "EXÓKETI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Bonito'"
+  },
+  {
+    "portugues": "Bonita",
+    "terena": "EXÓKETI",
+    "pronuncia": "EXÓKETI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Bonita'"
+  },
+  {
+    "portugues": "Conhecido",
+    "terena": "ÉXONE",
+    "pronuncia": "ÉXONE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Conhecido'"
+  },
+  {
+    "portugues": "Conhecimento",
+    "terena": "EXÓNETI",
+    "pronuncia": "EXÓNETI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Conhecimento'"
+  },
+  {
+    "portugues": "Lembrou",
+    "terena": "ÉXOPONOA",
+    "pronuncia": "ÉXOPONOA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Lembrou'"
+  },
+  {
+    "portugues": "Manso",
+    "terena": "ÉXOTI",
+    "pronuncia": "ÉXOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Manso'"
+  },
+  {
+    "portugues": "Está manso",
+    "terena": "ÉXOTINE",
+    "pronuncia": "ÉXOTINE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Está manso'"
+  },
+  {
+    "portugues": "Imão mais velho",
+    "terena": "EXOVÍTI",
+    "pronuncia": "EXOVÍTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Imão mais velho'"
+  },
+  {
+    "portugues": "Notícia",
+    "terena": "EYÉKOU",
+    "pronuncia": "EYÉKOU",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Notícia'"
+  },
+  {
+    "portugues": "Alta",
+    "terena": "ÉYEVOTI",
+    "pronuncia": "ÉYEVOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Alta'"
+  },
+  {
+    "portugues": "Alto",
+    "terena": "ÉYEVOTI",
+    "pronuncia": "ÉYEVOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Alto'"
+  },
+  {
+    "portugues": "Melancia",
+    "terena": "HÁNEA",
+    "pronuncia": "HÁNEA",
+    "categoria": "natureza",
+    "explicacao": "Expressão em Terena para 'Melancia'"
+  },
+  {
+    "portugues": "Buriti",
+    "terena": "HÉRÉNA",
+    "pronuncia": "HÉRÉNA",
+    "categoria": "natureza",
+    "explicacao": "Expressão em Terena para 'Buriti'"
+  },
+  {
+    "portugues": "Estrela",
+    "terena": "HÉKERE",
+    "pronuncia": "HÉKERE",
+    "categoria": "objeto",
+    "explicacao": "Expressão em Terena para 'Estrela'"
+  },
+  {
+    "portugues": "Escondendo",
+    "terena": "HÉ'ONOVO",
+    "pronuncia": "HÉ'ONOVO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Escondendo'"
+  },
+  {
+    "portugues": "Está escondendo",
+    "terena": "HÉ'ONOVO",
+    "pronuncia": "HÉ'ONOVO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Está escondendo'"
+  },
+  {
+    "portugues": "É assim mesmo",
+    "terena": "HIMÁRA",
+    "pronuncia": "HIMÁRA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'É assim mesmo'"
+  },
+  {
+    "portugues": "Frutas",
+    "terena": "HA’I",
+    "pronuncia": "HA’I",
+    "categoria": "expressão",
+    "explicacao": "Expressão em Terena para 'Frutas'"
+  },
+  {
+    "portugues": "Pai dele",
+    "terena": "HA’A",
+    "pronuncia": "HA’A",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Pai dele'"
+  },
+  {
+    "portugues": "Pai dela",
+    "terena": "HA’A",
+    "pronuncia": "HA’A",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Pai dela'"
+  },
+  {
+    "portugues": "Mancha",
+    "terena": "HÂMA",
+    "pronuncia": "HÂMA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Mancha'"
+  },
+  {
+    "portugues": "Grande",
+    "terena": "HÁNAITI",
+    "pronuncia": "HÁNAITI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Grande'"
+  },
+  {
+    "portugues": "Marimbondo",
+    "terena": "HÁNE",
+    "pronuncia": "HÁNE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Marimbondo'"
+  },
+  {
+    "portugues": "Marimbondo",
+    "terena": "HARARÁ’ITI",
+    "pronuncia": "HARARÁ’ITI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Marimbondo'"
+  },
+  {
+    "portugues": "Areia",
+    "terena": "HARÎRI",
+    "pronuncia": "HARÎRI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Areia'"
+  },
+  {
+    "portugues": "Concha para tirar caldo (quando se refere à comida)",
+    "terena": "HAUKÓPETI HÔ’O",
+    "pronuncia": "HAUKÓPETI HÔ’O",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Concha para tirar caldo (quando se refere à comida)'"
+  },
+  {
+    "portugues": "Vasilha para pegar água",
+    "terena": "HAUKÓPETI UNE",
+    "pronuncia": "HAUKÓPETI UNE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Vasilha para pegar água'"
+  },
+  {
+    "portugues": "Ferro",
+    "terena": "HAVÂVA",
+    "pronuncia": "HAVÂVA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ferro'"
+  },
+  {
+    "portugues": "Escondeu",
+    "terena": "HÉ’ONOA",
+    "pronuncia": "HÉ’ONOA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Escondeu'"
+  },
+  {
+    "portugues": "Ele se escondeu",
+    "terena": "HÉ’ONOVO",
+    "pronuncia": "HÉ’ONOVO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ele se escondeu'"
+  },
+  {
+    "portugues": "Ela se escondeu",
+    "terena": "HÉ’ONOVO",
+    "pronuncia": "HÉ’ONOVO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ela se escondeu'"
+  },
+  {
+    "portugues": "Esrá escondendo",
+    "terena": "HÉ’ONÓVOTI",
+    "pronuncia": "HÉ’ONÓVOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Esrá escondendo'"
+  },
+  {
+    "portugues": "Mamona",
+    "terena": "HÉHE",
+    "pronuncia": "HÉHE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Mamona'"
+  },
+  {
+    "portugues": "Estrela",
+    "terena": "HÉKERE",
+    "pronuncia": "HÉKERE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Estrela'"
+  },
+  {
+    "portugues": "Desenho",
+    "terena": "HEMÁXA",
+    "pronuncia": "HEMÁXA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Desenho'"
+  },
+  {
+    "portugues": "Cipó",
+    "terena": "HEPÍPI",
+    "pronuncia": "HEPÍPI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Cipó'"
+  },
+  {
+    "portugues": "Buriti",
+    "terena": "HERÉNA",
+    "pronuncia": "HERÉNA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Buriti'"
+  },
+  {
+    "portugues": "Risco",
+    "terena": "HÊRURU",
+    "pronuncia": "HÊRURU",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Risco'"
+  },
+  {
+    "portugues": "Ele riscou",
+    "terena": "HÊRURUXOA",
+    "pronuncia": "HÊRURUXOA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ele riscou'"
+  },
+  {
+    "portugues": "Ela riscou",
+    "terena": "HÊRURUXOA",
+    "pronuncia": "HÊRURUXOA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ela riscou'"
+  },
+  {
+    "portugues": "Riscar",
+    "terena": "HERURÚXOTI",
+    "pronuncia": "HERURÚXOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Riscar'"
+  },
+  {
+    "portugues": "Foram todos",
+    "terena": "HEÚ KOE",
+    "pronuncia": "HEÚ KOE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Foram todos'"
+  },
+  {
+    "portugues": "Cebola",
+    "terena": "HÉVOE",
+    "pronuncia": "HÉVOE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Cebola'"
+  },
+  {
+    "portugues": "Bolinho de mandioca",
+    "terena": "HÎHI",
+    "pronuncia": "HÎHI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Bolinho de mandioca'"
+  },
+  {
+    "portugues": "Mosca",
+    "terena": "HIKÊ",
+    "pronuncia": "HIKÊ",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Mosca'"
+  },
+  {
+    "portugues": "Bolsa",
+    "terena": "HÍMA",
+    "pronuncia": "HÍMA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Bolsa'"
+  },
+  {
+    "portugues": "É isso mesmo",
+    "terena": "HINÂRA",
+    "pronuncia": "HINÂRA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'É isso mesmo'"
+  },
+  {
+    "portugues": "É assim mesmo",
+    "terena": "HINÂRA KÔE",
+    "pronuncia": "HINÂRA KÔE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'É assim mesmo'"
+  },
+  {
+    "portugues": "Fita (enfeite)",
+    "terena": "HÎNDA",
+    "pronuncia": "HÎNDA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Fita (enfeite)'"
+  },
+  {
+    "portugues": "Vamos",
+    "terena": "HINGÁ",
+    "pronuncia": "HINGÁ",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Vamos'"
+  },
+  {
+    "portugues": "Dança",
+    "terena": "HÍOKENA",
+    "pronuncia": "HÍOKENA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Dança'"
+  },
+  {
+    "portugues": "Unha",
+    "terena": "HIPÔE",
+    "pronuncia": "HIPÔE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Unha'"
+  },
+  {
+    "portugues": "Curto",
+    "terena": "HIPULÚ’ITI",
+    "pronuncia": "HIPULÚ’ITI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Curto'"
+  },
+  {
+    "portugues": "Laço",
+    "terena": "HIRENÔPETI",
+    "pronuncia": "HIRENÔPETI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Laço'"
+  },
+  {
+    "portugues": "Carrapato",
+    "terena": "HIRIMÍTITI",
+    "pronuncia": "HIRIMÍTITI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Carrapato'"
+  },
+  {
+    "portugues": "Risque (ordem)",
+    "terena": "HÎRURUXA",
+    "pronuncia": "HÎRURUXA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Risque (ordem)'"
+  },
+  {
+    "portugues": "Lambari",
+    "terena": "HIVAÚPE",
+    "pronuncia": "HIVAÚPE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Lambari'"
+  },
+  {
+    "portugues": "Girino",
+    "terena": "HIVÔRO",
+    "pronuncia": "HIVÔRO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Girino'"
+  },
+  {
+    "portugues": "Vestido",
+    "terena": "HIXÕE",
+    "pronuncia": "HIXÕE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Vestido'"
+  },
+  {
+    "portugues": "Ele experimentou",
+    "terena": "HIXÓPA",
+    "pronuncia": "HIXÓPA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ele experimentou'"
+  },
+  {
+    "portugues": "Ela experimentou",
+    "terena": "HIXÓPA",
+    "pronuncia": "HIXÓPA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ela experimentou'"
+  },
+  {
+    "portugues": "Experimentar",
+    "terena": "HIXÓPOTI",
+    "pronuncia": "HIXÓPOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Experimentar'"
+  },
+  {
+    "portugues": "Ritual",
+    "terena": "HIYOKENATI",
+    "pronuncia": "HIYOKENATI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ritual'"
+  },
+  {
+    "portugues": "Ele dança bate-pau",
+    "terena": "HIYOKEXO KIPÂE",
+    "pronuncia": "HIYOKEXO KIPÂE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ele dança bate-pau'"
+  },
+  {
+    "portugues": "Ele está dançando bate-pau",
+    "terena": "HIYOKÉXOTI KIPÂE",
+    "pronuncia": "HIYOKÉXOTI KIPÂE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ele está dançando bate-pau'"
+  },
+  {
+    "portugues": "Cinto dele",
+    "terena": "HO’E",
+    "pronuncia": "HO’E",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Cinto dele'"
+  },
+  {
+    "portugues": "Cinto dela",
+    "terena": "HO’E",
+    "pronuncia": "HO’E",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Cinto dela'"
+  },
+  {
+    "portugues": "Caldo",
+    "terena": "HO’O",
+    "pronuncia": "HO’O",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Caldo'"
+  },
+  {
+    "portugues": "Animais",
+    "terena": "HO’OPENO",
+    "pronuncia": "HO’OPENO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Animais'"
+  },
+  {
+    "portugues": "Isca dele",
+    "terena": "HO’OREKU",
+    "pronuncia": "HO’OREKU",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Isca dele'"
+  },
+  {
+    "portugues": "Isca dela",
+    "terena": "HO’OREKU",
+    "pronuncia": "HO’OREKU",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Isca dela'"
+  },
+  {
+    "portugues": "Isca",
+    "terena": "HO’ORÉKUTI",
+    "pronuncia": "HO’ORÉKUTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Isca'"
+  },
+  {
+    "portugues": "Peixe",
+    "terena": "HÔE",
+    "pronuncia": "HÔE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Peixe'"
+  },
+  {
+    "portugues": "Mato",
+    "terena": "HÔI",
+    "pronuncia": "HÔI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Mato'"
+  },
+  {
+    "portugues": "Barata",
+    "terena": "HOKÊXO",
+    "pronuncia": "HOKÊXO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Barata'"
+  },
+  {
+    "portugues": "Lixo",
+    "terena": "HOKÓMORI",
+    "pronuncia": "HOKÓMORI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Lixo'"
+  },
+  {
+    "portugues": "Ele foi atrás de alguém",
+    "terena": "HOKÔTI",
+    "pronuncia": "HOKÔTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ele foi atrás de alguém'"
+  },
+  {
+    "portugues": "Ela foi atrás de alguém",
+    "terena": "HOKÔTI",
+    "pronuncia": "HOKÔTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ela foi atrás de alguém'"
+  },
+  {
+    "portugues": "Rapaz",
+    "terena": "HOMÔEHOU",
+    "pronuncia": "HOMÔEHOU",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Rapaz'"
+  },
+  {
+    "portugues": "Repartiu",
+    "terena": "HONÓ’EKOA",
+    "pronuncia": "HONÓ’EKOA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Repartiu'"
+  },
+  {
+    "portugues": "Tucanno",
+    "terena": "HONÔE",
+    "pronuncia": "HONÔE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Tucanno'"
+  },
+  {
+    "portugues": "Cigarro",
+    "terena": "HOPÍKIRIRI",
+    "pronuncia": "HOPÍKIRIRI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Cigarro'"
+  },
+  {
+    "portugues": "Velha",
+    "terena": "HÓVENOENO",
+    "pronuncia": "HÓVENOENO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Velha'"
+  },
+  {
+    "portugues": "Sapo",
+    "terena": "HOVÔVO",
+    "pronuncia": "HOVÔVO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Sapo'"
+  },
+  {
+    "portugues": "Homem",
+    "terena": "HÓYENO",
+    "pronuncia": "HÓYENO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Homem'"
+  },
+  {
+    "portugues": "Rápido (utilizado em urgências)",
+    "terena": "HÚ KOETI",
+    "pronuncia": "HÚ KOETI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Rápido (utilizado em urgências)'"
+  },
+  {
+    "portugues": "Tecer",
+    "terena": "HUKÔTI",
+    "pronuncia": "HUKÔTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Tecer'"
+  },
+  {
+    "portugues": "Preguiçoso",
+    "terena": "HULÉKETI",
+    "pronuncia": "HULÉKETI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Preguiçoso'"
+  },
+  {
+    "portugues": "Assobia (ordem)",
+    "terena": "HÚMIKA",
+    "pronuncia": "HÚMIKA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Assobia (ordem)'"
+  },
+  {
+    "portugues": "Ele assobia",
+    "terena": "HÚMIKOA",
+    "pronuncia": "HÚMIKOA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ele assobia'"
+  },
+  {
+    "portugues": "Assobiar",
+    "terena": "HUMÍKOTI",
+    "pronuncia": "HUMÍKOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Assobiar'"
+  },
+  {
+    "portugues": "Soldado",
+    "terena": "HÚNDARU",
+    "pronuncia": "HÚNDARU",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Soldado'"
+  },
+  {
+    "portugues": "Atravessar a água",
+    "terena": "HUNO’ÉKOTI UNE",
+    "pronuncia": "HUNO’ÉKOTI UNE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Atravessar a água'"
+  },
+  {
+    "portugues": "Escada",
+    "terena": "HUOKO’KUTI",
+    "pronuncia": "HUOKO’KUTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Escada'"
+  },
+  {
+    "portugues": "Cor forte",
+    "terena": "HÚPATI",
+    "pronuncia": "HÚPATI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Cor forte'"
+  },
+  {
+    "portugues": "Convidado",
+    "terena": "HUPIÚTI",
+    "pronuncia": "HUPIÚTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Convidado'"
+  },
+  {
+    "portugues": "Barriga",
+    "terena": "HURÂE",
+    "pronuncia": "HURÂE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Barriga'"
+  },
+  {
+    "portugues": "Colher",
+    "terena": "HÚREPE",
+    "pronuncia": "HÚREPE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Colher'"
+  },
+  {
+    "portugues": "Coruja",
+    "terena": "HURUMÚKUKU",
+    "pronuncia": "HURUMÚKUKU",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Coruja'"
+  },
+  {
+    "portugues": "Rio",
+    "terena": "HUVÊO",
+    "pronuncia": "HUVÊO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Rio'"
+  },
+  {
+    "portugues": "Flauta",
+    "terena": "HUXÔ’E ÉTAKATI",
+    "pronuncia": "HUXÔ’E ÉTAKATI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Flauta'"
+  },
+  {
+    "portugues": "Arcodeão",
+    "terena": "HUXÔE",
+    "pronuncia": "HUXÔE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Arcodeão'"
+  },
+  {
+    "portugues": "Gago",
+    "terena": "I’IKOTI",
+    "pronuncia": "I’IKOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Gago'"
+  },
+  {
+    "portugues": "Nome dele",
+    "terena": "IHA",
+    "pronuncia": "IHA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Nome dele'"
+  },
+  {
+    "portugues": "Nome dela",
+    "terena": "IHA",
+    "pronuncia": "IHA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Nome dela'"
+  },
+  {
+    "portugues": "Nome",
+    "terena": "IHÂE",
+    "pronuncia": "IHÂE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Nome'"
+  },
+  {
+    "portugues": "Está grávida",
+    "terena": "IHÁIKOTI",
+    "pronuncia": "IHÁIKOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Está grávida'"
+  },
+  {
+    "portugues": "Estudo",
+    "terena": "IHÁKAUVOTI",
+    "pronuncia": "IHÁKAUVOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Estudo'"
+  },
+  {
+    "portugues": "Xingar",
+    "terena": "IHÁKOTI",
+    "pronuncia": "IHÁKOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Xingar'"
+  },
+  {
+    "portugues": "Vasilha para flecha",
+    "terena": "ÍHAKU XÚME",
+    "pronuncia": "ÍHAKU XÚME",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Vasilha para flecha'"
+  },
+  {
+    "portugues": "Remendar",
+    "terena": "IHAPÁ’UXOTI",
+    "pronuncia": "IHAPÁ’UXOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Remendar'"
+  },
+  {
+    "portugues": "Lasquinha de madeira",
+    "terena": "ÍHAPATAU",
+    "pronuncia": "ÍHAPATAU",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Lasquinha de madeira'"
+  },
+  {
+    "portugues": "Amanhã",
+    "terena": "IHÂROTI",
+    "pronuncia": "IHÂROTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Amanhã'"
+  },
+  {
+    "portugues": "Seu nome",
+    "terena": "ÎHE",
+    "pronuncia": "ÎHE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Seu nome'"
+  },
+  {
+    "portugues": "Empachar",
+    "terena": "IHEAPU’IXOTI",
+    "pronuncia": "IHEAPU’IXOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Empachar'"
+  },
+  {
+    "portugues": "Rabo",
+    "terena": "ÎHI",
+    "pronuncia": "ÎHI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Rabo'"
+  },
+  {
+    "portugues": "Professor",
+    "terena": "IHÍKAXOTI",
+    "pronuncia": "IHÍKAXOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Professor'"
+  },
+  {
+    "portugues": "Professora",
+    "terena": "IHÍKAXOTI",
+    "pronuncia": "IHÍKAXOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Professora'"
+  },
+  {
+    "portugues": "Escola",
+    "terena": "IHÍKAXOVOKUTI",
+    "pronuncia": "IHÍKAXOVOKUTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Escola'"
+  },
+  {
+    "portugues": "Aluno",
+    "terena": "IHÎKAXOVOTI",
+    "pronuncia": "IHÎKAXOVOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Aluno'"
+  },
+  {
+    "portugues": "Filha",
+    "terena": "IHÎNE",
+    "pronuncia": "IHÎNE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Filha'"
+  },
+  {
+    "portugues": "Está furado",
+    "terena": "IHINÓKOTI",
+    "pronuncia": "IHINÓKOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Está furado'"
+  },
+  {
+    "portugues": "Medir",
+    "terena": "IHÍXOTI",
+    "pronuncia": "IHÍXOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Medir'"
+  },
+  {
+    "portugues": "Dance com ele",
+    "terena": "ÍHIYEA",
+    "pronuncia": "ÍHIYEA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Dance com ele'"
+  },
+  {
+    "portugues": "Dance com ela",
+    "terena": "ÍHIYEA",
+    "pronuncia": "ÍHIYEA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Dance com ela'"
+  },
+  {
+    "portugues": "A dança do bate-pau",
+    "terena": "IHIYOTI EVOI KIPÂÉ",
+    "pronuncia": "IHIYOTI EVOI KIPÂÉ",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'A dança do bate-pau'"
+  },
+  {
+    "portugues": "Germinar",
+    "terena": "IHÓNOTI",
+    "pronuncia": "IHÓNOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Germinar'"
+  },
+  {
+    "portugues": "Vento",
+    "terena": "IHUNÓVOTI",
+    "pronuncia": "IHUNÓVOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Vento'"
+  },
+  {
+    "portugues": "Nublado",
+    "terena": "IHURÍMETI",
+    "pronuncia": "IHURÍMETI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Nublado'"
+  },
+  {
+    "portugues": "Atrás",
+    "terena": "IK´ENEKE",
+    "pronuncia": "IK´ENEKE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Atrás'"
+  },
+  {
+    "portugues": "Fósforo",
+    "terena": "IKÁXAITI",
+    "pronuncia": "IKÁXAITI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Fósforo'"
+  },
+  {
+    "portugues": "Curva",
+    "terena": "IKÁYUKOKU",
+    "pronuncia": "IKÁYUKOKU",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Curva'"
+  },
+  {
+    "portugues": "Segunda-feira",
+    "terena": "IKE LÛMING",
+    "pronuncia": "IKE LÛMING",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Segunda-feira'"
+  },
+  {
+    "portugues": "Último",
+    "terena": "IKENÉTI",
+    "pronuncia": "IKENÉTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Último'"
+  },
+  {
+    "portugues": "Poço",
+    "terena": "IKOKÚTI",
+    "pronuncia": "IKOKÚTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Poço'"
+  },
+  {
+    "portugues": "Ele caiu",
+    "terena": "IKORÓKOVOTI",
+    "pronuncia": "IKORÓKOVOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ele caiu'"
+  },
+  {
+    "portugues": "Ela caiu",
+    "terena": "IKORÓKOVOTI",
+    "pronuncia": "IKORÓKOVOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ela caiu'"
+  },
+  {
+    "portugues": "Cupim",
+    "terena": "ILÎPA",
+    "pronuncia": "ILÎPA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Cupim'"
+  },
+  {
+    "portugues": "Esposa",
+    "terena": "ÎMA",
+    "pronuncia": "ÎMA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Esposa'"
+  },
+  {
+    "portugues": "Marido",
+    "terena": "ÎMA",
+    "pronuncia": "ÎMA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Marido'"
+  },
+  {
+    "portugues": "Pôxa",
+    "terena": "IMÁKO",
+    "pronuncia": "IMÁKO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Pôxa'"
+  },
+  {
+    "portugues": "Meu marido",
+    "terena": "IMAM",
+    "pronuncia": "IMAM",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Meu marido'"
+  },
+  {
+    "portugues": "Minha roupa",
+    "terena": "ÎMBOVO",
+    "pronuncia": "ÎMBOVO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Minha roupa'"
+  },
+  {
+    "portugues": "Seu marido",
+    "terena": "ÎME",
+    "pronuncia": "ÎME",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Seu marido'"
+  },
+  {
+    "portugues": "Dormir",
+    "terena": "IMÓKOTI",
+    "pronuncia": "IMÓKOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Dormir'"
+  },
+  {
+    "portugues": "Ele está cantando",
+    "terena": "IMOKÓVOTI",
+    "pronuncia": "IMOKÓVOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ele está cantando'"
+  },
+  {
+    "portugues": "Ela está cantando",
+    "terena": "IMOKÓVOTI",
+    "pronuncia": "IMOKÓVOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ela está cantando'"
+  },
+  {
+    "portugues": "Minha sogra",
+    "terena": "IMÓNZE",
+    "pronuncia": "IMÓNZE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Minha sogra'"
+  },
+  {
+    "portugues": "Prensa de mandioca",
+    "terena": "IMOÚXOPETI HÎHI",
+    "pronuncia": "IMOÚXOPETI HÎHI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Prensa de mandioca'"
+  },
+  {
+    "portugues": "Vou comer pouco",
+    "terena": "IMUNÚ NGOETI",
+    "pronuncia": "IMUNÚ NGOETI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Vou comer pouco'"
+  },
+  {
+    "portugues": "Podre",
+    "terena": "IIMUYÚKOTI",
+    "pronuncia": "IIMUYÚKOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Podre'"
+  },
+  {
+    "portugues": "Novo",
+    "terena": "INÁMATI",
+    "pronuncia": "INÁMATI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Novo'"
+  },
+  {
+    "portugues": "Nova",
+    "terena": "INÁMATI",
+    "pronuncia": "INÁMATI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Nova'"
+  },
+  {
+    "portugues": "Pesado",
+    "terena": "ÍNATI",
+    "pronuncia": "ÍNATI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Pesado'"
+  },
+  {
+    "portugues": "Meu",
+    "terena": "ÍNDUKE",
+    "pronuncia": "ÍNDUKE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Meu'"
+  },
+  {
+    "portugues": "Meu jeito",
+    "terena": "INDÚKEOVO",
+    "pronuncia": "INDÚKEOVO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Meu jeito'"
+  },
+  {
+    "portugues": "Carga",
+    "terena": "INONÉTI",
+    "pronuncia": "INONÉTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Carga'"
+  },
+  {
+    "portugues": "Testa",
+    "terena": "INUKÚTI",
+    "pronuncia": "INUKÚTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Testa'"
+  },
+  {
+    "portugues": "Minha filha",
+    "terena": "INZÍNE",
+    "pronuncia": "INZÍNE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Minha filha'"
+  },
+  {
+    "portugues": "Minha Ideia",
+    "terena": "INZÓNEU",
+    "pronuncia": "INZÓNEU",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Minha Ideia'"
+  },
+  {
+    "portugues": "Eu acendo",
+    "terena": "ÍNZUXOA",
+    "pronuncia": "ÍNZUXOA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Eu acendo'"
+  },
+  {
+    "portugues": "Cama",
+    "terena": "IPÊ",
+    "pronuncia": "IPÊ",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Cama'"
+  },
+  {
+    "portugues": "Sua roupa",
+    "terena": "ÍPEVO",
+    "pronuncia": "ÍPEVO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Sua roupa'"
+  },
+  {
+    "portugues": "Remédio",
+    "terena": "IPIXÁTI",
+    "pronuncia": "IPIXÁTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Remédio'"
+  },
+  {
+    "portugues": "Curandeiro",
+    "terena": "IPIXÁXOTI",
+    "pronuncia": "IPIXÁXOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Curandeiro'"
+  },
+  {
+    "portugues": "Rachar",
+    "terena": "IPIXÉKOTI",
+    "pronuncia": "IPIXÉKOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Rachar'"
+  },
+  {
+    "portugues": "Relâmpago",
+    "terena": "IPIXÉNENEOTI",
+    "pronuncia": "IPIXÉNENEOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Relâmpago'"
+  },
+  {
+    "portugues": "Está fazendo cerâmica",
+    "terena": "IPÔTI",
+    "pronuncia": "IPÔTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Está fazendo cerâmica'"
+  },
+  {
+    "portugues": "Roupa",
+    "terena": "IPOVÓTI",
+    "pronuncia": "IPOVÓTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Roupa'"
+  },
+  {
+    "portugues": "Explodiu",
+    "terena": "IPÚHOKO",
+    "pronuncia": "IPÚHOKO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Explodiu'"
+  },
+  {
+    "portugues": "Bravo",
+    "terena": "IPUHOKOVOTI",
+    "pronuncia": "IPUHOKOVOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Bravo'"
+  },
+  {
+    "portugues": "Cerâmica",
+    "terena": "IPUNÉTI",
+    "pronuncia": "IPUNÉTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Cerâmica'"
+  },
+  {
+    "portugues": "Comunidade",
+    "terena": "IPUXÓVOKUTI",
+    "pronuncia": "IPUXÓVOKUTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Comunidade'"
+  },
+  {
+    "portugues": "Medroso",
+    "terena": "ÎRETI",
+    "pronuncia": "ÎRETI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Medroso'"
+  },
+  {
+    "portugues": "Ficou",
+    "terena": "IRÍKOVO",
+    "pronuncia": "IRÍKOVO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ficou'"
+  },
+  {
+    "portugues": "Caiu",
+    "terena": "IRIKOVOTI",
+    "pronuncia": "IRIKOVOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Caiu'"
+  },
+  {
+    "portugues": "Está fritando",
+    "terena": "IROPÓXOTI",
+    "pronuncia": "IROPÓXOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Está fritando'"
+  },
+  {
+    "portugues": "Se você trouxer",
+    "terena": "ISÎMEA",
+    "pronuncia": "ISÎMEA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Se você trouxer'"
+  },
+  {
+    "portugues": "Traga",
+    "terena": "ÍSIMEA",
+    "pronuncia": "ÍSIMEA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Traga'"
+  },
+  {
+    "portugues": "Ideias",
+    "terena": "ISONÊUTI",
+    "pronuncia": "ISONÊUTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ideias'"
+  },
+  {
+    "portugues": "Bater",
+    "terena": "ISÚKOTI",
+    "pronuncia": "ISÚKOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Bater'"
+  },
+  {
+    "portugues": "Quebrar",
+    "terena": "ITATÁKOTI",
+    "pronuncia": "ITATÁKOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Quebrar'"
+  },
+  {
+    "portugues": "Sangue",
+    "terena": "ÍTI",
+    "pronuncia": "ÍTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Sangue'"
+  },
+  {
+    "portugues": "Faça",
+    "terena": "ITÍKA",
+    "pronuncia": "ITÍKA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Faça'"
+  },
+  {
+    "portugues": "Seu",
+    "terena": "ÍTIKE",
+    "pronuncia": "ÍTIKE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Seu'"
+  },
+  {
+    "portugues": "Seu costume (uma única pessoa)",
+    "terena": "ITÍKIVONOE",
+    "pronuncia": "ITÍKIVO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Seu costume (uma única pessoa)'"
+  },
+  {
+    "portugues": "Seus costumes (de várias pessoas)",
+    "terena": "ITÍKIVONOE",
+    "pronuncia": "ITÍKIVONOE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Seus costumes (de várias pessoas)'"
+  },
+  {
+    "portugues": "Vocês",
+    "terena": "ITÍNOE",
+    "pronuncia": "ITÍNOE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Vocês'"
+  },
+  {
+    "portugues": "Doce",
+    "terena": "ITÍVETI",
+    "pronuncia": "ITÍVETI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Doce'"
+  },
+  {
+    "portugues": "Gota",
+    "terena": "ITOMÍKOTI",
+    "pronuncia": "ITOMÍKOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Gota'"
+  },
+  {
+    "portugues": "Ganhar",
+    "terena": "ITÔTI",
+    "pronuncia": "ITÔTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ganhar'"
+  },
+  {
+    "portugues": "Maduro",
+    "terena": "ITÓVOTI",
+    "pronuncia": "ITÓVOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Maduro'"
+  },
+  {
+    "portugues": "É dele",
+    "terena": "ÍTUKENE",
+    "pronuncia": "ÍTUKENE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'É dele'"
+  },
+  {
+    "portugues": "É dela",
+    "terena": "ÍTUKENE",
+    "pronuncia": "ÍTUKENE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'É dela'"
+  },
+  {
+    "portugues": "Ele(a) fez",
+    "terena": "ITUKÉTI",
+    "pronuncia": "ITUKÉTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Trabalho'"
+  },
+  {
+    "portugues": "Deus",
+    "terena": "ITUKÓ’OVITI",
+    "pronuncia": "ITUKÓ’OVITI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Deus'"
+  },
+  {
+    "portugues": "Ele fez",
+    "terena": "ITÚKOA",
+    "pronuncia": "ITÚKOA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ele fez'"
+  },
+  {
+    "portugues": "Ela fez",
+    "terena": "ITÚKOA",
+    "pronuncia": "ITÚKOA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ela fez'"
+  },
+  {
+    "portugues": "Meio-dia",
+    "terena": "ITUMÚKOTI KAXE",
+    "pronuncia": "ITUMÚKOTI KAXE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Meio-dia'"
+  },
+  {
+    "portugues": "Flor",
+    "terena": "ITUNEÔVOTI",
+    "pronuncia": "ITUNEÔVOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Flor'"
+  },
+  {
+    "portugues": "Está socando",
+    "terena": "ITUTÚKOTI",
+    "pronuncia": "ITUTÚKOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Está socando'"
+  },
+  {
+    "portugues": "Banco para dentar",
+    "terena": "IVATÁKOKUTI",
+    "pronuncia": "IVATÁKOKUTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Banco para dentar'"
+  },
+  {
+    "portugues": "Sente-se",
+    "terena": "IVÉTAKA",
+    "pronuncia": "IVÉTAKA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Sente-se'"
+  },
+  {
+    "portugues": "Já está morto",
+    "terena": "IVÓKOVONE",
+    "pronuncia": "IVÓKOVONE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Já está morto'"
+  },
+  {
+    "portugues": "Minha barba",
+    "terena": "IXENOYO",
+    "pronuncia": "IXENOYO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Minha barba'"
+  },
+  {
+    "portugues": "Barba",
+    "terena": "IXENOYOTI",
+    "pronuncia": "IXENOYOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Barba'"
+  },
+  {
+    "portugues": "Dorminhoco",
+    "terena": "IXÉPATI",
+    "pronuncia": "IXÉPATI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Dorminhoco'"
+  },
+  {
+    "portugues": "Sono",
+    "terena": "IXEPÁTI",
+    "pronuncia": "IXEPÁTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Sono'"
+  },
+  {
+    "portugues": "Sua barba",
+    "terena": "IXINOYO",
+    "pronuncia": "IXINOYO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Sua barba'"
+  },
+  {
+    "portugues": "Estava",
+    "terena": "IXÓMONE",
+    "pronuncia": "IXÓMONE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Estava'"
+  },
+  {
+    "portugues": "Reza",
+    "terena": "IXÓMONE",
+    "pronuncia": "IXÓMONE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Reza'"
+  },
+  {
+    "portugues": "Quando ela tece",
+    "terena": "IXUXÚKO",
+    "pronuncia": "IXUXÚKO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Quando ela tece'"
+  },
+  {
+    "portugues": "Ele tece",
+    "terena": "IXÚXUKO",
+    "pronuncia": "IXÚXUKO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ele tece'"
+  },
+  {
+    "portugues": "Ela tece",
+    "terena": "IXÚXUKO",
+    "pronuncia": "IXÚXUKO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ela tece'"
+  },
+  {
+    "portugues": "Tear",
+    "terena": "IXUXÚKOPETI",
+    "pronuncia": "IXUXÚKOPETI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Tear'"
+  },
+  {
+    "portugues": "Parente",
+    "terena": "IYÉNO",
+    "pronuncia": "IYÉNO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Parente'"
+  },
+  {
+    "portugues": "Sacuda (sacudir)",
+    "terena": "IYÉYAHEA",
+    "pronuncia": "IYÉYAHEA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Sacuda (sacudir)'"
+  },
+  {
+    "portugues": "Enfeite-o",
+    "terena": "IYÉYAKA",
+    "pronuncia": "IYÉYAKA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Enfeite-o'"
+  },
+  {
+    "portugues": "Enfeite-o",
+    "terena": "Chorar",
+    "pronuncia": "Chorar",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Enfeite-o'"
+  },
+  {
+    "portugues": "Cocar",
+    "terena": "IYÓYONEVO TUTIYE",
+    "pronuncia": "IYÓYONEVO TUTIYE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Cocar'"
+  },
+  {
+    "portugues": "Agradar",
+    "terena": "IYUNÍ’IKOATI",
+    "pronuncia": "IYUNÍ’IKOATI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Agradar'"
+  },
+  {
+    "portugues": "Tremor",
+    "terena": "IYUYÔTI",
+    "pronuncia": "IYUYÔTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Tremor'"
+  },
+  {
+    "portugues": "Terremeto",
+    "terena": "HUXÔE",
+    "pronuncia": "HUXÔE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Terremeto'"
+  },
+  {
+    "portugues": "Macaco",
+    "terena": "KÂ’I",
+    "pronuncia": "KÂ’I",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Macaco'"
+  },
+  {
+    "portugues": "Bichado",
+    "terena": "KAKÁNETI",
+    "pronuncia": "KAKÁNETI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Bichado'"
+  },
+  {
+    "portugues": "Brinco",
+    "terena": "KAKÊTI",
+    "pronuncia": "KAKÊTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Brinco'"
+  },
+  {
+    "portugues": "É muito pouco",
+    "terena": "KALÎHAXO",
+    "pronuncia": "KALÎHAXO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'É muito pouco'"
+  },
+  {
+    "portugues": "Pequeno",
+    "terena": "KALÎHUTI",
+    "pronuncia": "KALÎHUTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Pequeno'"
+  },
+  {
+    "portugues": "Estreito",
+    "terena": "KALÍKUTI",
+    "pronuncia": "KALÍKUTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Estreito'"
+  },
+  {
+    "portugues": "Fino",
+    "terena": "KALÍSOTI",
+    "pronuncia": "KALÍSOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Fino'"
+  },
+  {
+    "portugues": "Criança",
+    "terena": "KALIVÔNO",
+    "pronuncia": "KALIVÔNO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Criança'"
+  },
+  {
+    "portugues": "Abóbora",
+    "terena": "KÂME",
+    "pronuncia": "KÂME",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Abóbora'"
+  },
+  {
+    "portugues": "Cavalo",
+    "terena": "KÁMO",
+    "pronuncia": "KÁMO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Cavalo'"
+  },
+  {
+    "portugues": "Está ouvindo",
+    "terena": "KÂMO",
+    "pronuncia": "KÂMO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Está ouvindo'"
+  },
+  {
+    "portugues": "Anta",
+    "terena": "MAYANE KÁMO",
+    "pronuncia": "MAYANE KÁMO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Anta'"
+  },
+  {
+    "portugues": "Ele ouviu",
+    "terena": "KÁMOA",
+    "pronuncia": "KÁMOA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ele ouviu'"
+  },
+  {
+    "portugues": "Ouvindo",
+    "terena": "KAMOKÉNOTI",
+    "pronuncia": "KAMOKÉNOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ouvindo'"
+  },
+  {
+    "portugues": "Lagarto",
+    "terena": "KANÊTI",
+    "pronuncia": "KANÊTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Lagarto'"
+  },
+  {
+    "portugues": "Ela se queixa da dor",
+    "terena": "KAPÁHAKOVA",
+    "pronuncia": "KAPÁHAKOVA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ela se queixa da dor'"
+  },
+  {
+    "portugues": "Ele se queixa da dor",
+    "terena": "KAPÁHAKOVA",
+    "pronuncia": "KAPÁHAKOVA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ele se queixa da dor'"
+  },
+  {
+    "portugues": "Ele se queixa da doença",
+    "terena": "KAPÁHAKOVA",
+    "pronuncia": "KAPÁHAKOVA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ele se queixa da doença'"
+  },
+  {
+    "portugues": "Ela se queixa da doença",
+    "terena": "KAPÁHAKOVA",
+    "pronuncia": "KAPÁHAKOVA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ela se queixa da doença'"
+  },
+  {
+    "portugues": "Nuvem",
+    "terena": "KAPÁSI",
+    "pronuncia": "KAPÁSI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Nuvem'"
+  },
+  {
+    "portugues": "Ela pisou",
+    "terena": "KAPÁSIKOA",
+    "pronuncia": "KAPÁSIKOA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ela pisou'"
+  },
+  {
+    "portugues": "Ele pisou",
+    "terena": "KAPÁSIKOA",
+    "pronuncia": "KAPÁSIKOA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ele pisou'"
+  },
+  {
+    "portugues": "Expreguiçou",
+    "terena": "KAPÁYA‘AKOVO",
+    "pronuncia": "KAPÁYA‘AKOVO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Expreguiçou'"
+  },
+  {
+    "portugues": "Está expreguiçando",
+    "terena": "KAPAYÁ‘AKOVOTI",
+    "pronuncia": "KAPAYÁ‘AKOVOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Está expreguiçando'"
+  },
+  {
+    "portugues": "Que foi pisado",
+    "terena": "KAPAYOETI",
+    "pronuncia": "KAPAYOETI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Que foi pisado'"
+  },
+  {
+    "portugues": "Ela está endurecendo",
+    "terena": "KARAKÁ‘IKOATI",
+    "pronuncia": "KARAKÁ‘IKOATI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ela está endurecendo'"
+  },
+  {
+    "portugues": "Ele está endurecendo",
+    "terena": "KARAKÁ‘IKOATI",
+    "pronuncia": "KARAKÁ‘IKOATI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ele está endurecendo'"
+  },
+  {
+    "portugues": "Garrafa de vidro",
+    "terena": "KARÁPA",
+    "pronuncia": "KARÁPA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Garrafa de vidro'"
+  },
+  {
+    "portugues": "Baixo",
+    "terena": "KARÁPE",
+    "pronuncia": "KARÁPE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Baixo'"
+  },
+  {
+    "portugues": "Baixa",
+    "terena": "KARÁPE",
+    "pronuncia": "KARÁPE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Baixa'"
+  },
+  {
+    "portugues": "Frio",
+    "terena": "KARÁPE",
+    "pronuncia": "KARÁPE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Frio'"
+  },
+  {
+    "portugues": "Está com frio",
+    "terena": "KASÁXOTI",
+    "pronuncia": "KASÁXOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Está com frio'"
+  },
+  {
+    "portugues": "Estragar",
+    "terena": "KASÁYU‘IXOATI",
+    "pronuncia": "KASÁYU‘IXOATI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Estragar'"
+  },
+  {
+    "portugues": "Roça",
+    "terena": "KAVÂNE",
+    "pronuncia": "KAVÂNE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Roça'"
+  },
+  {
+    "portugues": "Sabão",
+    "terena": "KÂVO",
+    "pronuncia": "KÂVO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Sabão'"
+  },
+  {
+    "portugues": "Dia",
+    "terena": "KÁXE",
+    "pronuncia": "KÁXE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Dia'"
+  },
+  {
+    "portugues": "Dia",
+    "terena": "KÁXE",
+    "pronuncia": "KÁXE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Dia'"
+  },
+  {
+    "portugues": "Paraguai",
+    "terena": "KÁXEONO",
+    "pronuncia": "KÁXEONO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Paraguai'"
+  },
+  {
+    "portugues": "Caju",
+    "terena": "KÂXU",
+    "pronuncia": "KÂXU",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Caju'"
+  },
+  {
+    "portugues": "Queijo",
+    "terena": "KÉHU",
+    "pronuncia": "KÉHU",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Queijo'"
+  },
+  {
+    "portugues": "Orelha",
+    "terena": "KENÔTI",
+    "pronuncia": "KENÔTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Orelha'"
+  },
+  {
+    "portugues": "Quiabo",
+    "terena": "KIÂPU",
+    "pronuncia": "KIÂPU",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Quiabo'"
+  },
+  {
+    "portugues": "Queixada",
+    "terena": "KIMÔUM",
+    "pronuncia": "KIMÔUM",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Queixada'"
+  },
+  {
+    "portugues": "Ema",
+    "terena": "KIPÂE",
+    "pronuncia": "KIPÂE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ema'"
+  },
+  {
+    "portugues": "Nariz",
+    "terena": "KIRÎTI",
+    "pronuncia": "KIRÎTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Nariz'"
+  },
+  {
+    "portugues": "Rolinha (passarinho)",
+    "terena": "KIRÎU",
+    "pronuncia": "KIRÎU",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Rolinha (passarinho)'"
+  },
+  {
+    "portugues": "Batata doce",
+    "terena": "KO‘Ê",
+    "pronuncia": "KO‘Ê",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Batata doce'"
+  },
+  {
+    "portugues": "Está trabalhando",
+    "terena": "KO‘ÍTUKETI",
+    "pronuncia": "KO‘ÍTUKETI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Está trabalhando'"
+  },
+  {
+    "portugues": "Agora",
+    "terena": "KÓ‘OYENE",
+    "pronuncia": "KÓ‘OYENE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Agora'"
+  },
+  {
+    "portugues": "Hoje",
+    "terena": "KÓ‘OYENE",
+    "pronuncia": "KÓ‘OYENE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Hoje'"
+  },
+  {
+    "portugues": "Caramujo",
+    "terena": "KO‘ÊYO",
+    "pronuncia": "KO‘ÊYO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Caramujo'"
+  },
+  {
+    "portugues": "Debulhar",
+    "terena": "KO‘IKOÂTI",
+    "pronuncia": "KO‘IKOÂTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Debulhar'"
+  },
+  {
+    "portugues": "Batata",
+    "terena": "KOÊ",
+    "pronuncia": "KOÊ",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Batata'"
+  },
+  {
+    "portugues": "Falou",
+    "terena": "KÔE",
+    "pronuncia": "KÔE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Falou'"
+  },
+  {
+    "portugues": "Moringa",
+    "terena": "KOEHÉPU‘ITI",
+    "pronuncia": "KOEHÉPU‘ITI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Moringa'"
+  },
+  {
+    "portugues": "Custe o que custar",
+    "terena": "KOÊKUTI KIXOKU KOEKU",
+    "pronuncia": "KOÊKUTI KIXOKU KOEKU",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Custe o que custar'"
+  },
+  {
+    "portugues": "Ele(a) matou alguém",
+    "terena": "KOEPÉKOTI",
+    "pronuncia": "KOEPÉKOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ele(a) matou alguém'"
+  },
+  {
+    "portugues": "Ele(a) matou alguém",
+    "terena": "KOEPÉKOTI",
+    "pronuncia": "KOEPÉKOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ele(a) matou alguém'"
+  },
+  {
+    "portugues": "Papagaio",
+    "terena": "KOÊRU",
+    "pronuncia": "KOÊRU",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Papagaio'"
+  },
+  {
+    "portugues": "Cobra",
+    "terena": "KÓEXOE",
+    "pronuncia": "KÓEXOE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Cobra'"
+  },
+  {
+    "portugues": "Lua",
+    "terena": "KOHÊ",
+    "pronuncia": "KOHÊ",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Lua'"
+  },
+  {
+    "portugues": "Está com desinteria",
+    "terena": "KOHEREKETI",
+    "pronuncia": "KOHEREKETI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Está com desinteria'"
+  },
+  {
+    "portugues": "Tuiuiú",
+    "terena": "KÓHO",
+    "pronuncia": "KÓHO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Tuiuuú'"
+  },
+  {
+    "portugues": "Batata do pé",
+    "terena": "KÓHOA",
+    "pronuncia": "KÓHOA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Batata do pé'"
+  },
+  {
+    "portugues": "Feio",
+    "terena": "KOIMAITI",
+    "pronuncia": "KOIMAITI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Feio'"
+  },
+  {
+    "portugues": "Ele está carregando",
+    "terena": "KOINOÂTI",
+    "pronuncia": "KOINOÂTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Ele está carregando'"
+  },
+  {
+    "portugues": "Pajé",
+    "terena": "KOIXÓMONETI",
+    "pronuncia": "KOIXÓMONETI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Pajé'"
+  },
+  {
+    "portugues": "Que tem asa",
+    "terena": "KOKÉVITI",
+    "pronuncia": "KOKÉVITI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Que tem asa'"
+  },
+  {
+    "portugues": "Está nos olhando",
+    "terena": "KOMOMÓ‘OVITI",
+    "pronuncia": "KOMOMÓ‘OVITI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Está nos olhando'"
+  },
+  {
+    "portugues": "Assistindo",
+    "terena": "KOMÓMOTI",
+    "pronuncia": "KOMÓMOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Assistindo'"
+  },
+  {
+    "portugues": "Coelho",
+    "terena": "KONÔUM",
+    "pronuncia": "KONÔUM",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Coelho'"
+  },
+  {
+    "portugues": "Nome de um tipo de marimbondo",
+    "terena": "KOPÍHE",
+    "pronuncia": "KOPÍHE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Nome de um tipo de marimbondo'"
+  },
+  {
+    "portugues": "Tatu-galinha",
+    "terena": "KOPÍHE",
+    "pronuncia": "KOPÍHE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Tatu-galinha'"
+  },
+  {
+    "portugues": "Espremer",
+    "terena": "KOTÍKOTI",
+    "pronuncia": "KOTÍKOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Espremer'"
+  },
+  {
+    "portugues": "Azedo",
+    "terena": "KOTÍKOTI",
+    "pronuncia": "KOTÍKOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Azedo (para alimentos)'"
+  },
+  {
+    "portugues": "Dolorido",
+    "terena": "KOTÍKOTI",
+    "pronuncia": "KOTÍKOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Dolorido'"
+  },
+  {
+    "portugues": "Tirar leite",
+    "terena": "KOTÚKOTI",
+    "pronuncia": "KOTÚKOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Tirar leite'"
+  },
+  {
+    "portugues": "Calor",
+    "terena": "KÓTUTI",
+    "pronuncia": "KÓTUTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Calor'"
+  },
+  {
+    "portugues": "Cateto",
+    "terena": "KOVÊKO",
+    "pronuncia": "KOVÊKO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Cateto'"
+  },
+  {
+    "portugues": "Águia",
+    "terena": "KOVÓ’ERU",
+    "pronuncia": "KOVÓ’ERU",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Águia'"
+  },
+  {
+    "portugues": "Está preoculpado",
+    "terena": "KOYÓ’ITI",
+    "pronuncia": "KOYÓ’ITI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Está preoculpado'"
+  },
+  {
+    "portugues": "Papel",
+    "terena": "KOYUHÓPETI",
+    "pronuncia": "KOYUHÓPETI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Papel'"
+  },
+  {
+    "portugues": "Está falando",
+    "terena": "KOYÚHOTI",
+    "pronuncia": "KOYÚHOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Está falando'"
+  },
+  {
+    "portugues": "Arrumar",
+    "terena": "KOYÚSEOVOTI",
+    "pronuncia": "KOYÚSEOVOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Arrumar'"
+  },
+  {
+    "portugues": "Porco",
+    "terena": "KÚRE",
+    "pronuncia": "KÚRE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Porco'"
+  },
+  {
+    "portugues": "Fumaça",
+    "terena": "KURÍHOE",
+    "pronuncia": "KURÍHOE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Fumaça'"
+  },
+  {
+    "portugues": "Amendoim",
+    "terena": "KURÎKE",
+    "pronuncia": "KURÎKE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Amendoim'"
+  },
+  {
+    "portugues": "Pomba (ave)",
+    "terena": "KURÛTE",
+    "pronuncia": "KURÛTE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Pomba (ave)'"
+  },
+  {
+    "portugues": "Nervo",
+    "terena": "KUSÔTI",
+    "pronuncia": "KUSÔTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Nervo'"
+  },
+  {
+    "portugues": "Está esperando",
+    "terena": "KUXÔTI",
+    "pronuncia": "KUXÔTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Está esperando'"
+  },
+  {
+    "portugues": "Velho",
+    "terena": "KÛXOTI",
+    "pronuncia": "KÛXOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Velho'"
+  },
+  {
+    "portugues": "Molhado",
+    "terena": "LAKÁ‘ITI",
+    "pronuncia": "LAKÁ‘ITI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Molhado'"
+  },
+  {
+    "portugues": "Fino",
+    "terena": "LAPÁ’ITI",
+    "pronuncia": "LAPÁ’ITI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Fino'"
+  },
+  {
+    "portugues": "Transparente",
+    "terena": "LAPÁHITI",
+    "pronuncia": "LAPÁHITI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Transparente'"
+  },
+  {
+    "portugues": "Lápis",
+    "terena": "LÁPI",
+    "pronuncia": "LÁPI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Lápis'"
+  },
+  {
+    "portugues": "Lagoa",
+    "terena": "LÁVONA",
+    "pronuncia": "LÁVONA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Lagoa'"
+  },
+  {
+    "portugues": "Lenço",
+    "terena": "LÉHU",
+    "pronuncia": "LÉHU",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Lenço'"
+  },
+  {
+    "portugues": "Irmão mais velho",
+    "terena": "LÊLE",
+    "pronuncia": "LÊLE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Irmão mais velho'"
+  },
+  {
+    "portugues": "Meu lenço",
+    "terena": "LENZUNA",
+    "pronuncia": "LENZUNA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Meu lenço'"
+  },
+  {
+    "portugues": "Sua esquerda",
+    "terena": "LEÔPE",
+    "pronuncia": "LEÔPE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Sua esquerda'"
+  },
+  {
+    "portugues": "Está passeando",
+    "terena": "LEVÉHEOTI",
+    "pronuncia": "LEVÉHEOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Está passeando'"
+  },
+  {
+    "portugues": "Estou passando",
+    "terena": "LEVÉNZEOTI",
+    "pronuncia": "LEVÉNZEOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Estou passando'"
+  },
+  {
+    "portugues": "Seu lenço",
+    "terena": "LÍHUNA",
+    "pronuncia": "LÍHUNA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Seu lenço'"
+  },
+  {
+    "portugues": "Dar cócegas",
+    "terena": "LIKILÍKIXOTI",
+    "pronuncia": "LIKILÍKIXOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Dar cócegas'"
+  },
+  {
+    "portugues": "Caranguejo",
+    "terena": "LÔ‘O",
+    "pronuncia": "LÔ‘O",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Caranguejo'"
+  },
+  {
+    "portugues": "Minha esquerda",
+    "terena": "LÔMBE",
+    "pronuncia": "LÔMBE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Minha esquerda'"
+  },
+  {
+    "portugues": "Esquerda",
+    "terena": "LOPÊTI",
+    "pronuncia": "LOPÊTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Esquerda'"
+  },
+  {
+    "portugues": "Tio",
+    "terena": "LÛLU",
+    "pronuncia": "LÛLU",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Tio'"
+  },
+  {
+    "portugues": "Sempre encharcado",
+    "terena": "LUMÉ KOYÊTI",
+    "pronuncia": "LUMÉ KOYÊTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Sempre encharcado'"
+  },
+  {
+    "portugues": "Domingo",
+    "terena": "LÛMINGU",
+    "pronuncia": "LÛMINGU",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Domingo'"
+  },
+  {
+    "portugues": "Domingo que vem",
+    "terena": "LÛMINGUKE",
+    "pronuncia": "LÛMINGUKE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Domingo que vem'"
+  },
+  {
+    "portugues": "Traíra (peixe)",
+    "terena": "LUPINÔNE",
+    "pronuncia": "LUPINÔNE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Traíra (peixe)'"
+  },
+  {
+    "portugues": "Descascar",
+    "terena": "MA’ÁKOTI",
+    "pronuncia": "MA’ÁKOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Descascar'"
+  },
+  {
+    "portugues": "Imbira",
+    "terena": "MÂKO",
+    "pronuncia": "MÂKO",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Imbira'"
+  },
+  {
+    "portugues": "Imbira",
+    "terena": "MALI’ÓKOVATI",
+    "pronuncia": "MALI’ÓKOVATI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Imbira'"
+  },
+  {
+    "portugues": "Não tenho nada a te entregar",
+    "terena": "MÁNBUÍNONE",
+    "pronuncia": "MÁNBUÍNONE",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Não tenho nada a te entregar'"
+  },
+  {
+    "portugues": "Manga",
+    "terena": "MÁNGA",
+    "pronuncia": "MÁNGA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Manga'"
+  },
+  {
+    "portugues": "Descascar",
+    "terena": "MAPUÍ KOATI",
+    "pronuncia": "MAPUÍ KOATI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Descascar'"
+  },
+  {
+    "portugues": "Gato",
+    "terena": "MARAKÁYA",
+    "pronuncia": "MARAKÁYA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Gato'"
+  },
+  {
+    "portugues": "Vermelho",
+    "terena": "MARARÁ‘ITI",
+    "pronuncia": "MARARÁ‘ITI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Vermelho'"
+  },
+  {
+    "portugues": "Arrancar",
+    "terena": "MARÉ KOTI",
+    "pronuncia": "MARÉ KOTI",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Arrancar'"
+  },
+  {
+    "portugues": "Arrancou",
+    "terena": "MAREKOA",
+    "pronuncia": "MAREKOA",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Arrancou'"
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  ,
+  {
+    "portugues": "Quando ele terminou de brincar sentou-se outra vez",
+    "terena": "Uke'éxone komóhiiyea, ivátakopo",
+    "pronuncia": "Uke'éxone komóhiiyea, ivátakopo",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Quando ele terminou de brincar sentou-se outra vez'"
+  },
+  {
+    "portugues": "Quando ele terminou de brincar guardou seu brinquedo outra vez",
+    "terena": "Uke'éxone komóhiiyea, áhhikopovo",
+    "pronuncia": "Uke'éxone komóhiiyea, áhhikopovo",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Quando ele terminou de brincar tomou banho outra vez'"
+  },
+  
+  {
+    "portugues": "Quando ele terminou de brincar sentou-se outra vez",
+    "terena": "Uke'éxone komóhiiyea, kaúnakopaa ne môhi",
+    "pronuncia": "Uke'éxone komóhiiyea, kaúnakopaa ne môhi",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Quando ele terminou de brincar sentou-se outra vez'"
+  },
+  {
+    "portugues": "Quando terminei de lavar roupa, tomei banho",
+    "terena": "Unge'éxone ngipóheiyea, ánjikopovo",
+    "pronuncia": "Unge'éxone ngipóheiyea, ánjikopovo",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Quando terminei de lavar roupa, tomei banho'"
+  },
+  {
+    "portugues": "Quando terminei de lavar roupa, cozinhei",
+    "terena": "Unge'éxone ngipóheiyea, oyé'engo",
+    "pronuncia": "Unge'éxone ngipóheiyea, oyé'engo",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Quando terminei de lavar roupa, cozinhei'"
+  },
+  {
+    "portugues": "Quando terminei de lavar roupa, fui embora",
+    "terena": "Unge'éxone ngipóheiyea, mbihópo",
+    "pronuncia": "Unge'éxone ngipóheiyea, mbihópo",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Quando terminei de lavar roupa, fui embora'"
+  },
+  {
+    "portugues": "Passei muito mal quando trabalhei lá",
+    "terena": "Êno ngoêku ngo'itúke yaátikeneeye",
+    "pronuncia": "Êno ngoêku ngo'itúke yaátikeneeye",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Passei muito mal quando trabalhei lá'"
+  },
+  {
+    "portugues": "Passei muito mal quando morava lá",
+    "terena": "Êno ngoêku óvom yaátikeneeye",
+    "pronuncia": "Êno ngoêku óvom yaátikeneeye",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Passei muito mal quando morava lá'"
+  },
+  {
+    "portugues": "Passei muito mal quando fui para lá",
+    "terena": "Êno ngoêku yónom yaátikeneeye",
+    "pronuncia": "Êno ngoêku yónom yaátikeneeye",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Passei muito mal quando fui para lá'"
+  },
+  {
+    "portugues": "Vou contar-lhe uma história da minha situação quando eu era criança",
+    "terena": "Indukínopitimo xêti ngoêku indukóvo kalivôno",
+    "pronuncia": "Indukínopitimo xêti ngoêku indukóvo kalivôno",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Vou contar-lhe uma história da minha situação quando eu era criança'"
+  },
+  {
+    "portugues": "Vou contar-lhe uma história da minha situação quando eu era lavrador",
+    "terena": "Indukínopitimo xêti ngoêku indukóvo ko'ítuketi kavâne",
+    "pronuncia": "Indukínopitimo xêti ngoêku indukóvo ko'ítuketi kavâne",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Vou contar-lhe uma história da minha situação quando eu era lavrador'"
+  },
+  {
+    "portugues": "Vou contar-lhe uma história da minha situação quando eu era professor",
+    "terena": "Indukínopitimo xêti ngoêku indukóvo ihíkaxoti",
+    "pronuncia": "Indukínopitimo xêti ngoêku indukóvo ihíkaxoti",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Vou contar-lhe uma história da minha situação quando eu era professor'"
+  },
+  {
+    "portugues": "Quando aquele dia chegou, amanheceram dançando",
+    "terena": "Simoné'e kaxéna yuponí' kíxoa híyokexea",
+    "pronuncia": "Simoné'e kaxéna yuponí' kíxoa híyokexea",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Quando aquele dia chegou, amanheceram dançando'"
+  },
+  {
+    "portugues": "Quando aquele dia chegou, amanheceram cozinhando",
+    "terena": "Simoné'e kaxéna yuponí' kíxoa oyé'ekea",
+    "pronuncia": "Simoné'e kaxéna yuponí' kíxoa oyé'ekea",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Quando aquele dia chegou, amanheceram cozinhando'"
+  },
+  {
+    "portugues": "Quando aquele dia chegou, amanheceram pescando",
+    "terena": "Simoné'e kaxéna yuponí' kíxoa númiikuxea",
+    "pronuncia": "Simoné'e kaxéna yuponí' kíxoa númiikuxea",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Quando aquele dia chegou, amanheceram pescando'"
+  },
+  {
+    "portugues": "Quando saímos de Bananal era de manhã cedo",
+    "terena": "Vipuhíkea Pánana, yuponí' kôe",
+    "pronuncia": "Vipuhíkea Pánana, yuponí' kôe",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Quando saímos de Bananal era de manhã cedo'"
+  },
+  {
+    "portugues": "Quando saímos de Bananal é de manhã cedo",
+    "terena": "Vipuhíkea Pánana, yuponí' kôe",
+    "pronuncia": "Vipuhíkea Pánana, yuponí' kôe",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Quando saímos de Bananal é de manhã cedo'"
+  },
+  {
+    "portugues": "Quando saímos de Bananal é escuro",
+    "terena": "Vipuhíkea Pánana, hhahhamé' kôe",
+    "pronuncia": "Vipuhíkea Pánana, hhahhamé' kôe",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Quando saímos de Bananal é escuro'"
+  },
+  {
+    "portugues": "Quando saímos de Bananal era escuro",
+    "terena": "Vipuhíkea Pánana, hhahhamé' kôe",
+    "pronuncia": "Vipuhíkea Pánana, hhahhamé' kôe",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Quando saímos de Bananal era escuro'"
+  },
+  {
+    "portugues": "Quando saímos de Bananal é meio-dia",
+    "terena": "Vipuhíkea Pánana, itúmukone káxe",
+    "pronuncia": "Vipuhíkea Pánana, itúmukone káxe",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Quando saímos de Bananal é meio-dia'"
+  },
+  {
+    "portugues": "Quando saímos de Bananal era meio-dia",
+    "terena": "Vipuhíkea Pánana, itúmukone káxe",
+    "pronuncia": "Vipuhíkea Pánana, itúmukone káxe",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Quando saímos de Bananal era meio-dia'"
+  },
+  {
+    "portugues": "Quando chegamos em Bananal era de manhã cedo",
+    "terena": "Vitopónone Pánana, yuponí' kôe",
+    "pronuncia": "Vitopónone Pánana, yuponí' kôe",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Quando chegamos em Bananal era de manhã cedo'"
+  },
+  {
+    "portugues": "Quando chegamos em Bananal é de manhã cedo",
+    "terena": "Vitopónone Pánana, yuponí' kôe",
+    "pronuncia": "Vitopónone Pánana, yuponí' kôe",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Quando chegamos em Bananal é de manhã cedo'"
+  },
+  {
+    "portugues": "Quando chegamos em Bananal é escuro",
+    "terena": "Vitopónone Pánana, hhahhamé' kôe",
+    "pronuncia": "Vitopónone Pánana, hhahhamé' kôe",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Quando chegamos em Bananal é escuro'"
+  },
+  {
+    "portugues": "Quando chegamos em Bananal era escuro",
+    "terena": "Vitopónone Pánana, hhahhamé' kôe",
+    "pronuncia": "Vitopónone Pánana, hhahhamé' kôe",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Quando chegamos em Bananal era escuro'"
+  },
+  {
+    "portugues": "Quando chegamos em Bananal é meio-dia",
+    "terena": "Vitopónone Pánana, itúmukone káxe",
+    "pronuncia": "Vitopónone Pánana, itúmukone káxe",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Quando chegamos em Bananal é meio-dia'"
+  },
+  {
+    "portugues": "Quando chegamos em Bananal era meio-dia",
+    "terena": "Vitopónone Pánana, itúmukone káxe",
+    "pronuncia": "Vitopónone Pánana, itúmukone káxe",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Quando chegamos em Bananal era meio-dia'"
+  },
+  {
+    "portugues": "Se você encontrar com ele na rua, fale assim",
+    "terena": "Enepo tekapâa yaa none ovokúti, haíxea",
+    "pronuncia": "Enepo tekapâa yaa none ovokúti, haíxea",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Se você encontrar com ele na rua, fale assim'"
+  },
+  {
+    "portugues": "Se você encontrar com ele na rua, faça assim",
+    "terena": "Enepo tekapâa yaa none ovokúti, haíxea",
+    "pronuncia": "Enepo tekapâa yaa none ovokúti, haíxea",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Se você encontrar com ele na rua, faça assim'"
+  },
+  {
+    "portugues": "Se você encontrar com ele na cidade, fale assim",
+    "terena": "Enepo tekapâa yaa pitivókoke, haíxea",
+    "pronuncia": "Enepo tekapâa yaa pitivókoke, haíxea",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Se você encontrar com ele na cidade, fale assim'"
+  },
+  {
+    "portugues": "Se você encontrar com ele na cidade, faça assim",
+    "terena": "Enepo tekapâa yaa pitivókoke, haíxea",
+    "pronuncia": "Enepo tekapâa yaa pitivókoke, haíxea",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Se você encontrar com ele na cidade, faça assim'"
+  },
+  {
+    "portugues": "Se você encontrar com ele em Campo Grande, fale assim",
+    "terena": "Enepo tekapâa yaa Campo Grande-ke, haíxea",
+    "pronuncia": "Enepo tekapâa yaa Campo Grande-ke, haíxea",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Se você encontrar com ele em Campo Grande, fale assim'"
+  },
+  {
+    "portugues": "Se você encontrar com ele em Campo grande, faça assim",
+    "terena": "Enepo tekapâa yaa Campo Grande-ke, haíxea",
+    "pronuncia": "Enepo tekapâa yaa Campo Grande-ke, haíxea",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Se você encontrar com ele em Campo grande, faça assim'"
+  },
+  {
+    "portugues": "Se você encontrar com ele no mato, fale assim",
+    "terena": "Enepo tekapâa yaa hoíkuke, haíxea",
+    "pronuncia": "Enepo tekapâa yaa hoíkuke, haíxea",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Se você encontrar com ele no mato, fale assim'"
+  },
+  {
+    "portugues": "Se você encontrar com ele no mato, faça assim",
+    "terena": "Enepo tekapâa yaa hoíkuke, haíxea",
+    "pronuncia": "Enepo tekapâa yaa hoíkuke, haíxea",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Se você encontrar com ele no mato, faça assim'"
+  },
+  {
+    "portugues": "Se ele tem pena de você, vai dar-lhe dinheiro",
+    "terena": "Enepo okoseánapi, porexópitimo kali tiûketi",
+    "pronuncia": "Enepo okoseánapi, porexópitimo kali tiûketi",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Se ele tem pena de você, vai dar-lhe dinheiro'"
+  },
+  {
+    "portugues": "Se ele tem pena de você, vai dar-lhe comida",
+    "terena": "Enepo okoseánapi, porexópitimo kali nikokónoti",
+    "pronuncia": "Enepo okoseánapi, porexópitimo kali nikokónoti",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Se ele tem pena de você, vai dar-lhe comida'"
+  },
+  {
+    "portugues": "Se ele tem pena de você, vai dar-lhe serviço",
+    "terena": "Enepo okoseánapi, porexópitimo kali itukéti",
+    "pronuncia": "Enepo okoseánapi, porexópitimo kali itukéti",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Se ele tem pena de você, vai dar-lhe serviço'"
+  },
+  {
+    "portugues": "Se ele tem pena de você, vai dar-lhe roupa",
+    "terena": "Enepo okoseánapi, porexópitimo kali ipovóti",
+    "pronuncia": "Enepo okoseánapi, porexópitimo kali ipovóti",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Se ele tem pena de você, vai dar-lhe roupa'"
+  },
+  {
+    "portugues": "Se você quiser dormir, a cama está aqui",
+    "terena": "Enepo yakahhá'a imékii, hara ípe",
+    "pronuncia": "Enepo yakahhá'a imékii, hara ípe",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Se você quiser dormir, a cama está aqui'"
+  },
+  {
+    "portugues": "Se você quiser dormir, aqui é onde vai dormir",
+    "terena": "Enepo yakahhá'a imékii, haramo iméka",
+    "pronuncia": "Enepo yakahhá'a imékii, haramo iméka",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Se você quiser dormir, aqui é onde vai dormir'"
+  },
+  {
+    "portugues": "Se você quiser dormir, durma",
+    "terena": "Enepo yakahhá'a imékii, iméka",
+    "pronuncia": "Enepo yakahhá'a imékii, iméka",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Se você quiser dormir, durma'"
+  },
+  {
+    "portugues": "Contudo falaremos quando nos reunirmos",
+    "terena": "Koyeanemo koyúhoiyea ûti vitixápu",
+    "pronuncia": "Koyeanemo koyúhoiyea ûti vitixápu",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Contudo falaremos quando nos reunirmos'"
+  },
+  {
+    "portugues": "Contudo estaremos alegres quando nos reunirmos",
+    "terena": "Koyeanemo elókeiyea vokóvo vitixápu",
+    "pronuncia": "Koyeanemo elókeiyea vokóvo vitixápu",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Contudo estaremos alegres quando nos reunirmos'"
+  },
+  {
+    "portugues": "Contudo estudaremos quando nos reunirmos",
+    "terena": "Koyeanemo víhikaxeovo vitixápu",
+    "pronuncia": "Koyeanemo víhikaxeovo vitixápu",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Contudo estudaremos quando nos reunirmos'"
+  },
+  {
+    "portugues": "Contudo cantaremos quando nos reunirmos",
+    "terena": "Koyeanemo vimókeovo vitixápu",
+    "pronuncia": "Koyeanemo vimókeovo vitixápu",
+    "categoria": "geral",
+    "explicacao": "Expressão em Terena para 'Contudo cantaremos quando nos reunirmos'"
+  }
+]
